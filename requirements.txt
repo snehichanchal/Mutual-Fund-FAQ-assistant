@@ -1,0 +1,37 @@
+# ─── API Server ──────────────────────────────────────────────────────────────
+fastapi
+uvicorn[standard]
+slowapi
+
+# ─── Config & Validation ─────────────────────────────────────────────────────
+pydantic
+python-dotenv
+
+# ─── LLM (Groq API) ──────────────────────────────────────────────────────────
+groq
+
+# ─── Embeddings (BGE model, local inference) ──────────────────────────────────
+sentence-transformers
+torch
+
+# ─── RAG Orchestration ────────────────────────────────────────────────────────
+langchain
+langchain-community
+
+# ─── Vector Database ──────────────────────────────────────────────────────────
+chromadb
+
+# ─── Scraping & Parsing ──────────────────────────────────────────────────────
+beautifulsoup4
+playwright
+lxml
+
+# ─── Token Counting ──────────────────────────────────────────────────────────
+tiktoken
+
+# ─── Testing ──────────────────────────────────────────────────────────────────
+pytest
+httpx
+
+# ─── CLI Formatting ──────────────────────────────────────────────────────────
+rich

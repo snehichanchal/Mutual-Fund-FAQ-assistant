@@ -1,0 +1,2 @@
+# This directory stores cleaned text and chunk JSON files.
+# Files are named: {scheme_id}.txt, {scheme_id}_parsed.json, {scheme_id}_chunks.json

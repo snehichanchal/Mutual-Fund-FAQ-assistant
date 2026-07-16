@@ -1,0 +1,49 @@
+# ─── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# ─── Virtual Environment ─────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ─── Environment Variables ────────────────────────────────────────────────────
+.env
+
+# ─── IDE / Editor ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ─── Project-Specific ────────────────────────────────────────────────────────
+# Scraped HTML snapshots (regeneratable via ingest.py)
+data/raw/*.html
+
+# Processed text and chunk files (regeneratable via ingest.py)
+data/processed/*.txt
+data/processed/*.json
+
+# ChromaDB persistence (regeneratable via ingest.py)
+data/chromadb/
+
+# Sentence-transformers model cache
+.cache/
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
