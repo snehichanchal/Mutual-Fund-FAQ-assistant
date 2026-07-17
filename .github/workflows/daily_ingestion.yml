@@ -7,6 +7,9 @@ on:
   workflow_dispatch:
     # Allows manual triggering from the GitHub Actions UI
 
+permissions:
+  contents: write
+
 jobs:
   ingest:
     runs-on: ubuntu-latest
@@ -14,6 +17,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
@@ -33,10 +38,10 @@ jobs:
         run: |
           python scripts/ingest.py --full
 
-      - name: Commit and push updated vector store
+      - name: Commit and push updated data
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add data/
+          git add -f data/chromadb/ data/processed/ data/raw/
           git diff --quiet && git diff --staged --quiet || git commit -m "chore: Daily update of vector store data"
           git push
