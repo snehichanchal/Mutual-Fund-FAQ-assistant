@@ -1,0 +1,366 @@
+## General
+
+| Repo | Unspecified | Repo | 10.22% |
+| --- | --- | --- | --- |
+| Aster DM Healthcare Ltd | Healthcare | Equity | 3.83% |
+| Firstsource Solutions Ltd | Industrials | Equity | 3.31% |
+| Bank Of Baroda | Financial | Equity | 3.16% |
+| Gabriel India Ltd | Consumer Discretionary | Equity | 3.00% |
+| Eris Lifesciences Ltd | Healthcare | Equity | 2.33% |
+| Krishna Institute Of Medical Sciences Ltd | Healthcare | Equity | 2.24% |
+| Fortis Healthcare Ltd | Healthcare | Equity | 2.24% |
+| eClerx Services Ltd | Technology | Equity | 2.10% |
+| Apar Industries Ltd | Diversified | Equity | 1.96% |
+| Indian Bank | Financial | Equity | 1.96% |
+| The Federal Bank Ltd | Financial | Equity | 1.70% |
+| Home First Finance Company India Ltd | Financial | Equity | 1.68% |
+| The Great Eastern Shipping Company Ltd | Energy & Utilities | Equity | 1.66% |
+| Kalpataru Power Transmission Ltd | Industrials | Equity | 1.57% |
+| Power Mech Projects Ltd | Industrials | Equity | 1.50% |
+| Timken India Ltd | Industrials | Equity | 1.50% |
+| Vardhman Textiles Ltd | Consumer Discretionary | Equity | 1.48% |
+| Aditya Vision Ltd | Consumer Discretionary | Equity | 1.43% |
+| Chalet Hotels Ltd | Consumer Discretionary | Equity | 1.40% |
+| Pearl Global Industries Ltd | Consumer Discretionary | Equity | 1.39% |
+| City Union Bank Ltd | Financial | Equity | 1.38% |
+| PVR Ltd | Consumer Discretionary | Equity | 1.36% |
+| Akzo Nobel India Ltd | Materials | Equity | 1.36% |
+| Suprajit Engineering Ltd | Consumer Discretionary | Equity | 1.35% |
+| Sonata Software Ltd | Technology | Equity | 1.33% |
+| Godrej Consumer Products Ltd | Consumer Staples | Equity | 1.30% |
+| Dodla Dairy Ltd | Consumer Staples | Equity | 1.30% |
+| Equitas Small Finance Bank Ltd | Financial | Equity | 1.27% |
+| Sudarshan Chemical Industries Ltd | Materials | Equity | 1.26% |
+| Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 1.23% |
+| Blue Dart Express Ltd | Industrials | Equity | 1.22% |
+| Fiem Industries Ltd | Consumer Discretionary | Equity | 1.21% |
+| Vishal Mega Mart Ltd. | Consumer Staples | Equity | 1.20% |
+| Sharda Cropchem Ltd | Materials | Equity | 1.18% |
+| LG Balakrishnan & Brothers Ltd | Industrials | Equity | 1.10% |
+| Transport Corporation Of India Ltd | Industrials | Equity | 1.09% |
+| JK Tyre & Industries Ltd | Consumer Discretionary | Equity | 1.07% |
+| Vijaya Diagnostic Centre Ltd | Healthcare | Equity | 1.06% |
+| Voltamp Transformers Ltd | Industrials | Equity | 1.03% |
+| Chambal Fertilisers & Chemicals Ltd | Materials | Equity | 0.99% |
+| Tega Industries Ltd | Industrials | Equity | 0.98% |
+| NRB Bearings Ltd | Industrials | Equity | 0.96% |
+| Redington Ltd | Technology | Equity | 0.93% |
+| Kirloskar Ferrous Industries Ltd | Materials | Equity | 0.90% |
+| UTI Asset Management Company Ltd | Financial | Equity | 0.90% |
+| Shoppers Stop Ltd | Consumer Discretionary | Equity | 0.88% |
+| Zensar Technologies Ltd | Technology | Equity | 0.88% |
+| The Anup Engineering Ltd | Industrials | Equity | 0.85% |
+| VRL Logistics Ltd | Industrials | Equity | 0.84% |
+| Bajaj Consumer Care Ltd | Consumer Staples | Equity | 0.81% |
+| SKF India (Industrial) Ltd | Industrials | Equity | 0.79% |
+| Indigo Paints Ltd | Materials | Equity | 0.76% |
+| Redtape Ltd | Consumer Discretionary | Equity | 0.75% |
+| PNC Infratech Ltd | Industrials | Equity | 0.74% |
+| Lumax Industries Ltd | Consumer Discretionary | Equity | 0.73% |
+| Tata Steel Ltd | Materials | Equity | 0.72% |
+| DHFL VYSYA HOUSING FINANCE LIMITED EQ | Financial | Equity | 0.72% |
+| KEC International Ltd | Diversified | Equity | 0.64% |
+| Unichem Laboratories Ltd | Healthcare | Equity | 0.62% |
+| Mastek Ltd | Technology | Equity | 0.53% |
+| Awfis Space Solutions Ltd. | Industrials | Equity | 0.50% |
+| Ion Exchange (India) Ltd | Industrials | Equity | 0.49% |
+| Bajaj Electricals Ltd | Consumer Discretionary | Equity | 0.49% |
+| Gateway Distriparks Ltd | Industrials | Equity | 0.48% |
+| Kei Industries Ltd | Industrials | Equity | 0.47% |
+| Wakefit Innovations Ltd. | Consumer Discretionary | Equity | 0.47% |
+| SKF India Ltd | Industrials | Equity | 0.46% |
+| Vesuvius India Ltd | Industrials | Equity | 0.45% |
+| Insecticides (India) Ltd | Materials | Equity | 0.42% |
+| La Opala RG Ltd | Consumer Discretionary | Equity | 0.42% |
+| GMM Pfaudler Ltd | Industrials | Equity | 0.41% |
+| GNA Axles Ltd | Consumer Discretionary | Equity | 0.36% |
+| Emami Ltd | Consumer Staples | Equity | 0.34% |
+| G R Infraprojects Ltd | Industrials | Equity | 0.34% |
+| Gujarat Pipavav Port Ltd | Industrials | Equity | 0.33% |
+| IFGL Refractories Ltd | Industrials | Equity | 0.29% |
+| Brainbees Solutions Ltd. | Consumer Discretionary | Equity | 0.27% |
+| DB Corp Ltd | Industrials | Equity | 0.23% |
+| Sula Vineyards Ltd | Consumer Staples | Equity | 0.23% |
+| Goodyear India Ltd | Consumer Discretionary | Equity | 0.23% |
+| Carborundum Universal Ltd | Materials | Equity | 0.19% |
+| BEML Ltd | Industrials | Equity | 0.18% |
+| TCI Express Ltd | Industrials | Equity | 0.13% |
+| Net Payables | Unspecified | Net Payables | -0.06% |
+
+Repo
+
+Aster DM Healthcare Ltd
+
+Firstsource Solutions Ltd
+
+Bank Of Baroda
+
+Gabriel India Ltd
+
+Eris Lifesciences Ltd
+
+Krishna Institute Of Medical Sciences Ltd
+
+Fortis Healthcare Ltd
+
+eClerx Services Ltd
+
+Apar Industries Ltd
+
+Indian Bank
+
+The Federal Bank Ltd
+
+Home First Finance Company India Ltd
+
+The Great Eastern Shipping Company Ltd
+
+Kalpataru Power Transmission Ltd
+
+Power Mech Projects Ltd
+
+Timken India Ltd
+
+Vardhman Textiles Ltd
+
+Aditya Vision Ltd
+
+Chalet Hotels Ltd
+
+Pearl Global Industries Ltd
+
+City Union Bank Ltd
+
+PVR Ltd
+
+Akzo Nobel India Ltd
+
+Suprajit Engineering Ltd
+
+Sonata Software Ltd
+
+Godrej Consumer Products Ltd
+
+Dodla Dairy Ltd
+
+Equitas Small Finance Bank Ltd
+
+Sudarshan Chemical Industries Ltd
+
+Mahindra CIE Automotive Ltd
+
+Blue Dart Express Ltd
+
+Fiem Industries Ltd
+
+Vishal Mega Mart Ltd.
+
+Sharda Cropchem Ltd
+
+LG Balakrishnan & Brothers Ltd
+
+Transport Corporation Of India Ltd
+
+JK Tyre & Industries Ltd
+
+Vijaya Diagnostic Centre Ltd
+
+Voltamp Transformers Ltd
+
+Chambal Fertilisers & Chemicals Ltd
+
+Tega Industries Ltd
+
+NRB Bearings Ltd
+
+Redington Ltd
+
+Kirloskar Ferrous Industries Ltd
+
+UTI Asset Management Company Ltd
+
+Shoppers Stop Ltd
+
+Zensar Technologies Ltd
+
+The Anup Engineering Ltd
+
+VRL Logistics Ltd
+
+Bajaj Consumer Care Ltd
+
+SKF India (Industrial) Ltd
+
+Indigo Paints Ltd
+
+Redtape Ltd
+
+PNC Infratech Ltd
+
+Lumax Industries Ltd
+
+Tata Steel Ltd
+
+DHFL VYSYA HOUSING FINANCE LIMITED EQ
+
+KEC International Ltd
+
+Unichem Laboratories Ltd
+
+Mastek Ltd
+
+Awfis Space Solutions Ltd.
+
+Ion Exchange (India) Ltd
+
+Bajaj Electricals Ltd
+
+Gateway Distriparks Ltd
+
+Kei Industries Ltd
+
+Wakefit Innovations Ltd.
+
+SKF India Ltd
+
+Vesuvius India Ltd
+
+Insecticides (India) Ltd
+
+La Opala RG Ltd
+
+GMM Pfaudler Ltd
+
+GNA Axles Ltd
+
+Emami Ltd
+
+G R Infraprojects Ltd
+
+Gujarat Pipavav Port Ltd
+
+IFGL Refractories Ltd
+
+Brainbees Solutions Ltd.
+
+DB Corp Ltd
+
+Sula Vineyards Ltd
+
+Goodyear India Ltd
+
+Carborundum Universal Ltd
+
+BEML Ltd
+
+TCI Express Ltd
+
+Net Payables
+
+## Sector Allocation
+
+Annualised returns
+
+Absolute returns
+
+| Fund returns | +13.6% | +16.5% | +18.3% | +18.5% |
+| --- | --- | --- | --- | --- |
+| Category average (Equity Small Cap) | +19.7% | +22.6% | +16.1% | -- |
+| Rank (Equity Small Cap) | 31 | 17 | 4 | -- |
+
+Fund benchmark
+
+BSE 250 SmallCap Total Return Index
+
+Scheme Information Document(SID)
+
+Rank (total assets)
+
+#2 in India
+
+Total AUM
+
+₹9,34,237.77 Cr
+
+Date of Incorporation
+
+10 Dec 1999
+
+Phone
+
+022 – 66316333
+
+E-mail
+
+Website
+
+Launch Date
+
+Address
+
+"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020
+
+Custodian
+
+Citibank NA
+
+Registrar & Transfer Agent
+
+Cams
+
+Email
+
+7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+
+| Name |
+| --- |
+| HDFC Small Cap Fund Direct IDCW |
+
+## How to Invest in HDFC Small Cap Fund Direct Growth?
+
+You can easily invest in HDFC Small Cap Fund Direct Growth in a hassle-free manner on Groww. The
+process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:
+
+Log on to your Groww account
+
+Search for HDFC Small Cap Fund Direct Growth from the search box
+
+In order to invest, you will have to complete all the KYC formalities which are completely online and paperless
+and take a few minutes to complete
+
+Once you are done with that, you can start investing in HDFC Small Cap Fund Direct Growth as SIP or lumpsum as per your
+investment objective and risk tolerance
+
+## Returns
+
+The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 18.47% since its inception.
+
+## Expense Ratio
+
+The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual
+charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.77% as of 10 Jul 2026...
+
+## Aum
+
+The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹40,416.80Cr as of 10 Jul 2026.
+
+## How to Redeem HDFC Small Cap Fund Direct Growth?
+
+If you want to sell your HDFC Small Cap Fund Direct Growth holdings, go to your holding on the app or
+web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
+desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.
+
+## Sip
+
+You can select either SIP or Lumpsum investment of HDFC Small Cap Fund Direct Growth based on
+your investment objective and risk tolerance.
+
+## Nav
+
+The NAV of HDFC Small Cap Fund Direct Growth is ₹157.55 as of 09 Jul 2026.
+
+## What is the PE and PB ratio of HDFC Small Cap Fund Direct Growth?
+
+The PE ratio ratio of HDFC Small Cap Fund Direct Growth is determined by dividing the market price by
+its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value
+per share (BVPS).

@@ -42,7 +42,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add -f data/chromadb/ data/processed/ data/raw/
-          git add data/sources.json
+          git add data/
           git diff --quiet && git diff --staged --quiet || git commit -m "chore: Daily update of vector store data"
           git push
