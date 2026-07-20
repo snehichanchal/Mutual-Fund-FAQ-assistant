@@ -21,18 +21,28 @@ from src.config import (
 
 logger = logging.getLogger(__name__)
 
+import os
+
 # Global client and collection for lazy loading
 _client: Optional[chromadb.ClientAPI] = None
 _collection: Optional[chromadb.Collection] = None
-
+_db_mtime: float = 0.0
 
 def get_client() -> chromadb.ClientAPI:
-    """Lazily load and cache the ChromaDB client."""
-    global _client
-    if _client is None:
+    """Lazily load and cache the ChromaDB client, reloading if the DB file changes."""
+    global _client, _collection, _db_mtime
+    
+    db_file = CHROMA_PERSIST_DIR / "chroma.sqlite3"
+    current_mtime = db_file.stat().st_mtime if db_file.exists() else 0.0
+    
+    # If client is None, or the database file was updated by GitHub Actions
+    if _client is None or current_mtime > _db_mtime:
         logger.info("Initializing ChromaDB PersistentClient at %s", CHROMA_PERSIST_DIR)
         CHROMA_PERSIST_DIR.mkdir(parents=True, exist_ok=True)
         _client = chromadb.PersistentClient(path=str(CHROMA_PERSIST_DIR))
+        _collection = None  # Force collection to reload too
+        _db_mtime = current_mtime
+        
     return _client
 
 
