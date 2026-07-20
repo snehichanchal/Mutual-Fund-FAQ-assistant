@@ -29,8 +29,8 @@ def run_scrape() -> None:
     """Run the scraper stage."""
     logger.info("─── Stage: SCRAPE ────────────────────────────────────────")
     try:
-        from src.ingestion.scraper import scrape_all
-        scrape_all()
+        from src.ingestion.scraper import run_scraper
+        run_scraper()
     except ImportError:
         logger.error("Scraper module not yet implemented. Skipping.")
     except Exception as exc:
