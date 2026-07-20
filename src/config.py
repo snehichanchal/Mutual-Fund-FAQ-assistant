@@ -32,7 +32,12 @@ FRONTEND_DIR = PROJECT_ROOT / "frontend"
 load_dotenv(PROJECT_ROOT / ".env")
 
 # Groq API key (required for LLM generation)
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
+# Support both .env (local) and Streamlit Cloud secrets (production)
+try:
+    import streamlit as _st
+    GROQ_API_KEY = _st.secrets.get("GROQ_API_KEY", os.getenv("GROQ_API_KEY", ""))
+except (ImportError, AttributeError, FileNotFoundError):
+    GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
 
 # CORS origins for the API server
 CORS_ORIGINS = os.getenv("CORS_ORIGINS", "http://localhost:8000").split(",")

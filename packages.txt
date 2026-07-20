@@ -1,0 +1,4 @@
+# System-level dependencies for Streamlit Cloud
+# NOTE: Playwright (headless browser for scraping) is NOT needed at runtime.
+# Scraping runs offline via GitHub Actions. The deployed app only reads
+# from the pre-built ChromaDB vector store.
