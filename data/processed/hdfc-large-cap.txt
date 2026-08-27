@@ -1,53 +1,54 @@
 ## General
 
-| ICICI Bank Ltd | Financial | Equity | 9.73% |
+| ICICI Bank Ltd | Financial | Equity | 9.86% |
 | --- | --- | --- | --- |
-| HDFC Bank Ltd | Financial | Equity | 7.92% |
-| Bharti Airtel Ltd | Technology | Equity | 5.66% |
-| Kotak Mahindra Bank Ltd | Financial | Equity | 5.46% |
-| Reliance Industries Ltd | Energy & Utilities | Equity | 4.96% |
-| Titan Company Ltd | Consumer Discretionary | Equity | 4.65% |
-| Torrent Pharmaceuticals Ltd | Healthcare | Equity | 3.77% |
-| Axis Bank Ltd | Financial | Equity | 3.69% |
-| Bajaj Finserv Ltd | Financial | Equity | 3.00% |
-| Lupin Ltd | Healthcare | Equity | 2.86% |
-| Bajaj Auto Ltd | Consumer Discretionary | Equity | 2.80% |
-| Repo | Unspecified | Repo | 2.64% |
-| Infosys Ltd | Technology | Equity | 2.49% |
-| Ambuja Cements Ltd | Materials | Equity | 2.41% |
-| Cholamandalam Investment & Finance Company Ltd | Financial | Equity | 2.40% |
-| State Bank of India | Financial | Equity | 2.29% |
-| Larsen & Toubro Ltd | Industrials | Equity | 2.09% |
-| Interglobe Aviation Ltd | Industrials | Equity | 2.06% |
-| Zomato Ltd | Technology | Equity | 2.05% |
-| NTPC Ltd | Energy & Utilities | Equity | 2.04% |
-| Max Healthcare Institute Ltd | Healthcare | Equity | 1.91% |
+| HDFC Bank Ltd | Financial | Equity | 7.21% |
+| Bharti Airtel Ltd | Technology | Equity | 5.85% |
+| Kotak Mahindra Bank Ltd | Financial | Equity | 5.28% |
+| Titan Company Ltd | Consumer Discretionary | Equity | 5.00% |
+| Reliance Industries Ltd | Energy & Utilities | Equity | 4.86% |
+| Torrent Pharmaceuticals Ltd | Healthcare | Equity | 4.05% |
+| Bajaj Finserv Ltd | Financial | Equity | 3.32% |
+| Axis Bank Ltd | Financial | Equity | 3.28% |
+| Repo | Unspecified | Repo | 3.08% |
+| Lupin Ltd | Healthcare | Equity | 2.77% |
+| Bajaj Auto Ltd | Consumer Discretionary | Equity | 2.76% |
+| Infosys Ltd | Technology | Equity | 2.73% |
+| Cholamandalam Investment & Finance Company Ltd | Financial | Equity | 2.41% |
+| Ambuja Cements Ltd | Materials | Equity | 2.40% |
+| Zomato Ltd | Technology | Equity | 2.28% |
+| Larsen & Toubro Ltd | Industrials | Equity | 1.93% |
+| NTPC Ltd | Energy & Utilities | Equity | 1.93% |
+| Interglobe Aviation Ltd | Industrials | Equity | 1.93% |
 | Tata Motors Ltd | Industrials | Equity | 1.86% |
-| Mankind Pharma Ltd. | Healthcare | Equity | 1.79% |
-| United Spirits Ltd | Consumer Staples | Equity | 1.65% |
-| Vishal Mega Mart Ltd. | Consumer Staples | Equity | 1.49% |
-| Indusind Bank Ltd | Financial | Equity | 1.46% |
-| Tata Consumer Products Ltd | Consumer Staples | Equity | 1.39% |
-| Havells India Ltd | Consumer Discretionary | Equity | 1.29% |
-| ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 1.17% |
-| Swiggy Ltd. | Technology | Equity | 1.13% |
-| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.07% |
-| Adani Ports and Special Economic Zone Ltd | Industrials | Equity | 1.01% |
-| SRF Ltd | Materials | Equity | 0.97% |
-| Eicher Motors Ltd | Consumer Discretionary | Equity | 0.94% |
-| TATA CAPITAL LIMITED EQ | Financial | Equity | 0.77% |
-| Dabur India Ltd | Consumer Staples | Equity | 0.74% |
-| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 0.66% |
-| CG Power & Industrial Solutions Ltd | Industrials | Equity | 0.66% |
-| Mahindra & Mahindra Ltd | Consumer Discretionary | Equity | 0.62% |
-| GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100 | Entities | GOI Securities | 0.50% |
-| Tata Motors Ltd | Consumer Discretionary | Equity | 0.48% |
-| DLF Ltd | Real Estate | Equity | 0.34% |
-| Cummins India Ltd | Industrials | Equity | 0.33% |
-| Billionbrains Garage Ventures Ltd. | Financial | Equity | 0.30% |
+| State Bank of India | Financial | Equity | 1.82% |
+| Max Healthcare Institute Ltd | Healthcare | Equity | 1.81% |
+| United Spirits Ltd | Consumer Staples | Equity | 1.80% |
+| Mankind Pharma Ltd. | Healthcare | Equity | 1.68% |
+| Indusind Bank Ltd | Financial | Equity | 1.56% |
+| Havells India Ltd | Consumer Discretionary | Equity | 1.36% |
+| Tata Consumer Products Ltd | Consumer Staples | Equity | 1.36% |
+| Vishal Mega Mart Ltd. | Consumer Staples | Equity | 1.31% |
+| Swiggy Ltd. | Technology | Equity | 1.31% |
+| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.19% |
+| ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 1.06% |
+| Eicher Motors Ltd | Consumer Discretionary | Equity | 1.01% |
+| Adani Ports and Special Economic Zone Ltd | Industrials | Equity | 0.92% |
+| SRF Ltd | Materials | Equity | 0.91% |
+| TATA CAPITAL LIMITED EQ | Financial | Equity | 0.74% |
+| Dabur India Ltd | Consumer Staples | Equity | 0.72% |
+| SBI Funds Management Ltd | Financial | Equity | 0.68% |
+| Mahindra & Mahindra Ltd | Consumer Discretionary | Equity | 0.67% |
+| CG Power & Industrial Solutions Ltd | Industrials | Equity | 0.58% |
+| GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100 | Entities | GOI Securities | 0.48% |
+| Tata Motors Ltd | Consumer Discretionary | Equity | 0.45% |
+| DLF Ltd | Real Estate | Equity | 0.35% |
+| Cummins India Ltd | Industrials | Equity | 0.32% |
+| Billionbrains Garage Ventures Ltd. | Financial | Equity | 0.28% |
+| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 0.25% |
 | Hindalco Industries Ltd | Materials | Equity | 0.22% |
-| SBI Life Insurance Company Ltd | Financial | Equity | 0.18% |
-| Net Current Assets | Unspecified | Net Current Assets | 0.10% |
+| SBI Life Insurance Company Ltd | Financial | Equity | 0.19% |
+| Net Current Assets | Unspecified | Net Current Assets | 0.18% |
 
 ICICI Bank Ltd
 
@@ -57,75 +58,75 @@ Bharti Airtel Ltd
 
 Kotak Mahindra Bank Ltd
 
-Reliance Industries Ltd
-
 Titan Company Ltd
+
+Reliance Industries Ltd
 
 Torrent Pharmaceuticals Ltd
 
+Bajaj Finserv Ltd
+
 Axis Bank Ltd
 
-Bajaj Finserv Ltd
+Repo
 
 Lupin Ltd
 
 Bajaj Auto Ltd
 
-Repo
-
 Infosys Ltd
-
-Ambuja Cements Ltd
 
 Cholamandalam Investment & Finance Company Ltd
 
-State Bank of India
-
-Larsen & Toubro Ltd
-
-Interglobe Aviation Ltd
+Ambuja Cements Ltd
 
 Zomato Ltd
 
+Larsen & Toubro Ltd
+
 NTPC Ltd
 
-Max Healthcare Institute Ltd
+Interglobe Aviation Ltd
 
 Tata Motors Ltd
 
-Mankind Pharma Ltd.
+State Bank of India
+
+Max Healthcare Institute Ltd
 
 United Spirits Ltd
 
-Vishal Mega Mart Ltd.
+Mankind Pharma Ltd.
 
 Indusind Bank Ltd
 
-Tata Consumer Products Ltd
-
 Havells India Ltd
 
-ICICI Prudential Asset Management Company Ltd.
+Tata Consumer Products Ltd
+
+Vishal Mega Mart Ltd.
 
 Swiggy Ltd.
 
 Hyundai Motor India Ltd.
 
+ICICI Prudential Asset Management Company Ltd.
+
+Eicher Motors Ltd
+
 Adani Ports and Special Economic Zone Ltd
 
 SRF Ltd
-
-Eicher Motors Ltd
 
 TATA CAPITAL LIMITED EQ
 
 Dabur India Ltd
 
-Maruti Suzuki India Ltd
-
-CG Power & Industrial Solutions Ltd
+SBI Funds Management Ltd
 
 Mahindra & Mahindra Ltd
+
+CG Power & Industrial Solutions Ltd
 
 GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100
 
@@ -134,6 +135,8 @@ DLF Ltd
 Cummins India Ltd
 
 Billionbrains Garage Ventures Ltd.
+
+Maruti Suzuki India Ltd
 
 Hindalco Industries Ltd
 
@@ -147,10 +150,10 @@ Annualised returns
 
 Absolute returns
 
-| Fund returns | +11.5% | +13.0% | +12.9% | +13.2% |
+| Fund returns | +11.4% | +13.0% | +13.0% | +13.2% |
 | --- | --- | --- | --- | --- |
 | Category average (Equity Large Cap) | +15.1% | +15.0% | +13.2% | -- |
-| Rank (Equity Large Cap) | 43 | 17 | 13 | -- |
+| Rank (Equity Large Cap) | 43 | 17 | 12 | -- |
 
 Fund benchmark
 
@@ -217,16 +220,16 @@ investment objective and risk tolerance
 
 ## Returns
 
-The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.24% since its inception.
+The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.21% since its inception.
 
 ## Expense Ratio
 
 The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual
-charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.02% as of 26 Aug 2026...
+charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.02% as of 27 Aug 2026...
 
 ## Aum
 
-The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹40,197.89Cr as of 26 Aug 2026.
+The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹40,197.89Cr as of 27 Aug 2026.
 
 ## How to Redeem HDFC Large Cap Fund Direct Growth?
 
@@ -241,7 +244,7 @@ your investment objective and risk tolerance.
 
 ## Nav
 
-The NAV of HDFC Large Cap Fund Direct Growth is ₹1,249.86 as of 25 Aug 2026.
+The NAV of HDFC Large Cap Fund Direct Growth is ₹1,247.08 as of 26 Aug 2026.
 
 ## What is the PE and PB ratio of HDFC Large Cap Fund Direct Growth?
 
