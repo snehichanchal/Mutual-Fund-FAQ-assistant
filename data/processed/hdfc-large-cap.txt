@@ -153,7 +153,7 @@ Absolute returns
 | Fund returns | +11.3% | +12.8% | +12.9% | +13.2% |
 | --- | --- | --- | --- | --- |
 | Category average (Equity Large Cap) | +15.1% | +15.0% | +13.2% | -- |
-| Rank (Equity Large Cap) | 43 | 17 | 12 | -- |
+| Rank (Equity Large Cap) | 41 | 16 | 12 | -- |
 
 Fund benchmark
 
@@ -225,11 +225,11 @@ The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the av
 ## Expense Ratio
 
 The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual
-charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.02% as of 29 Aug 2026...
+charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.02% as of 30 Aug 2026...
 
 ## Aum
 
-The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹40,197.89Cr as of 29 Aug 2026.
+The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹40,197.89Cr as of 30 Aug 2026.
 
 ## How to Redeem HDFC Large Cap Fund Direct Growth?
 
