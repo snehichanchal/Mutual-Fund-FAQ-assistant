@@ -1,87 +1,87 @@
 ## General
 
-| Repo | Unspecified | Repo | 6.92% |
+| Repo | Unspecified | Repo | 6.91% |
 | --- | --- | --- | --- |
-| The Federal Bank Ltd | Financial | Equity | 4.36% |
-| AU Small Finance Bank Ltd | Financial | Equity | 3.96% |
-| Max Financial Services Ltd | Financial | Equity | 3.72% |
-| Balkrishna Industries Ltd | Consumer Discretionary | Equity | 3.37% |
-| Ipca Laboratories Ltd | Healthcare | Equity | 3.01% |
-| Indian Bank | Financial | Equity | 2.93% |
-| Fortis Healthcare Ltd | Healthcare | Equity | 2.91% |
-| Glenmark Pharmaceuticals Ltd | Healthcare | Equity | 2.85% |
-| Coforge Ltd | Technology | Equity | 2.56% |
-| Marico Ltd | Consumer Staples | Equity | 2.51% |
-| Mahindra & Mahindra Financial Services Ltd | Financial | Equity | 2.43% |
-| Vishal Mega Mart Ltd. | Consumer Staples | Equity | 2.30% |
-| Hindustan Petroleum Corporation Ltd | Energy & Utilities | Equity | 2.26% |
-| Cummins India Ltd | Industrials | Equity | 2.19% |
-| Aurobindo Pharma Ltd | Healthcare | Equity | 2.01% |
-| United Spirits Ltd | Consumer Staples | Equity | 1.98% |
-| Tata Communications Ltd | Technology | Equity | 1.86% |
-| Persistent Systems Ltd | Technology | Equity | 1.81% |
-| Alkem Laboratories Ltd | Healthcare | Equity | 1.73% |
-| Apollo Tyres Ltd | Consumer Discretionary | Equity | 1.71% |
-| Mphasis Ltd | Technology | Equity | 1.59% |
-| Dabur India Ltd | Consumer Staples | Equity | 1.55% |
-| Jindal Steel & Power Ltd | Materials | Equity | 1.54% |
-| PB Fintech Ltd | Financial | Equity | 1.49% |
-| AIA Engineering Ltd | Industrials | Equity | 1.48% |
-| Union Bank of India | Financial | Equity | 1.47% |
-| Delhivery Ltd | Industrials | Equity | 1.45% |
-| Gland Pharma Ltd | Healthcare | Equity | 1.44% |
-| Bharat Forge Ltd | Consumer Discretionary | Equity | 1.35% |
-| Karur Vysya Bank Ltd | Financial | Equity | 1.28% |
-| Zomato Ltd | Technology | Equity | 1.24% |
-| Bosch Ltd | Consumer Discretionary | Equity | 1.22% |
-| Star Health & Allied Insurance Co. Ltd | Financial | Equity | 1.18% |
-| Indusind Bank Ltd | Financial | Equity | 1.14% |
-| Nippon Life India Asset Management Ltd | Financial | Equity | 1.10% |
-| Coromandel International Ltd | Materials | Equity | 1.09% |
-| The Indian Hotels Company Ltd | Consumer Discretionary | Equity | 0.99% |
-| Escorts Kubota Ltd | Industrials | Equity | 0.87% |
-| Godrej Consumer Products Ltd | Consumer Staples | Equity | 0.84% |
-| Redington Ltd | Technology | Equity | 0.84% |
-| ICICI Lombard General Insurance Company Ltd | Financial | Equity | 0.83% |
-| HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/- | Technology | Equity | 0.80% |
-| Indraprastha Gas Ltd | Energy & Utilities | Equity | 0.74% |
-| Sona BLW Precision Forgings Ltd | Consumer Discretionary | Equity | 0.74% |
-| Crompton Greaves Consumer Electricals Ltd | Consumer Discretionary | Equity | 0.71% |
-| Havells India Ltd | Consumer Discretionary | Equity | 0.70% |
-| Dixon Technologies (India) Ltd | Consumer Discretionary | Equity | 0.69% |
-| Sundram Fasteners Ltd | Industrials | Equity | 0.67% |
-| City Union Bank Ltd | Financial | Equity | 0.65% |
-| ACC Ltd | Materials | Equity | 0.61% |
-| SKF India (Industrial) Ltd | Industrials | Equity | 0.61% |
-| Timken India Ltd | Industrials | Equity | 0.58% |
-| Gujarat Fluorochemicals Ltd | Materials | Equity | 0.58% |
-| Supreme Industries Ltd | Materials | Equity | 0.55% |
-| Aster DM Healthcare Ltd | Healthcare | Equity | 0.42% |
-| KEC International Ltd | Diversified | Equity | 0.40% |
-| Arvind Ltd | Consumer Discretionary | Equity | 0.40% |
-| Oracle Financial Services Software Ltd | Technology | Equity | 0.36% |
-| Aarti Industries Ltd | Materials | Equity | 0.36% |
-| Vardhman Textiles Ltd | Consumer Discretionary | Equity | 0.35% |
-| Cholamandalam Financial Holdings Ltd | Financial | Equity | 0.33% |
-| SKF India Ltd | Industrials | Equity | 0.33% |
-| Vesuvius India Ltd | Industrials | Equity | 0.30% |
-| Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 0.28% |
-| Emami Ltd | Consumer Staples | Equity | 0.28% |
-| Symphony Ltd | Consumer Discretionary | Equity | 0.24% |
-| Bharti Hexacom Ltd. | Technology | Equity | 0.21% |
-| Colgate-Palmolive (India) Ltd | Consumer Staples | Equity | 0.21% |
-| Petronet LNG Ltd | Energy & Utilities | Equity | 0.20% |
-| Five-Star Business Finance Ltd | Financial | Equity | 0.20% |
-| Billionbrains Garage Ventures Ltd. | Financial | Equity | 0.19% |
-| Navneet Education Ltd | Consumer Discretionary | Equity | 0.18% |
-| Greenlam Industries Ltd | Materials | Equity | 0.15% |
+| The Federal Bank Ltd | Financial | Equity | 4.21% |
+| AU Small Finance Bank Ltd | Financial | Equity | 3.98% |
+| Max Financial Services Ltd | Financial | Equity | 3.79% |
+| Ipca Laboratories Ltd | Healthcare | Equity | 3.30% |
+| Glenmark Pharmaceuticals Ltd | Healthcare | Equity | 3.07% |
+| Indian Bank | Financial | Equity | 3.06% |
+| Balkrishna Industries Ltd | Consumer Discretionary | Equity | 3.02% |
+| Coforge Ltd | Technology | Equity | 2.86% |
+| Fortis Healthcare Ltd | Healthcare | Equity | 2.69% |
+| Vishal Mega Mart Ltd. | Consumer Staples | Equity | 2.31% |
+| Marico Ltd | Consumer Staples | Equity | 2.29% |
+| Mahindra & Mahindra Financial Services Ltd | Financial | Equity | 2.28% |
+| Aurobindo Pharma Ltd | Healthcare | Equity | 2.12% |
+| Hindustan Petroleum Corporation Ltd | Energy & Utilities | Equity | 2.05% |
+| United Spirits Ltd | Consumer Staples | Equity | 1.93% |
+| Cummins India Ltd | Industrials | Equity | 1.92% |
+| Persistent Systems Ltd | Technology | Equity | 1.78% |
+| Tata Communications Ltd | Technology | Equity | 1.77% |
+| Apollo Tyres Ltd | Consumer Discretionary | Equity | 1.70% |
+| PB Fintech Ltd | Financial | Equity | 1.69% |
+| Jindal Steel & Power Ltd | Materials | Equity | 1.62% |
+| Gland Pharma Ltd | Healthcare | Equity | 1.62% |
+| Alkem Laboratories Ltd | Healthcare | Equity | 1.61% |
+| Mphasis Ltd | Technology | Equity | 1.61% |
+| Union Bank of India | Financial | Equity | 1.57% |
+| Dabur India Ltd | Consumer Staples | Equity | 1.47% |
+| Bosch Ltd | Consumer Discretionary | Equity | 1.44% |
+| Delhivery Ltd | Industrials | Equity | 1.33% |
+| AIA Engineering Ltd | Industrials | Equity | 1.33% |
+| Zomato Ltd | Technology | Equity | 1.30% |
+| Karur Vysya Bank Ltd | Financial | Equity | 1.26% |
+| Bharat Forge Ltd | Consumer Discretionary | Equity | 1.25% |
+| Indusind Bank Ltd | Financial | Equity | 1.11% |
+| Nippon Life India Asset Management Ltd | Financial | Equity | 1.08% |
+| Coromandel International Ltd | Materials | Equity | 1.08% |
+| Star Health & Allied Insurance Co. Ltd | Financial | Equity | 1.08% |
+| The Indian Hotels Company Ltd | Consumer Discretionary | Equity | 0.96% |
+| Redington Ltd | Technology | Equity | 0.91% |
+| Havells India Ltd | Consumer Discretionary | Equity | 0.90% |
+| ICICI Lombard General Insurance Company Ltd | Financial | Equity | 0.87% |
+| Aster DM Healthcare Ltd | Healthcare | Equity | 0.84% |
+| Godrej Consumer Products Ltd | Consumer Staples | Equity | 0.82% |
+| Escorts Kubota Ltd | Industrials | Equity | 0.82% |
+| Sundram Fasteners Ltd | Industrials | Equity | 0.80% |
+| HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/- | Technology | Equity | 0.76% |
+| Sona BLW Precision Forgings Ltd | Consumer Discretionary | Equity | 0.76% |
+| Indraprastha Gas Ltd | Energy & Utilities | Equity | 0.71% |
+| Dixon Technologies (India) Ltd | Consumer Discretionary | Equity | 0.71% |
+| City Union Bank Ltd | Financial | Equity | 0.71% |
+| SKF India (Industrial) Ltd | Industrials | Equity | 0.65% |
+| Crompton Greaves Consumer Electricals Ltd | Consumer Discretionary | Equity | 0.63% |
+| Gujarat Fluorochemicals Ltd | Materials | Equity | 0.60% |
+| Timken India Ltd | Industrials | Equity | 0.57% |
+| ACC Ltd | Materials | Equity | 0.56% |
+| Supreme Industries Ltd | Materials | Equity | 0.54% |
+| Arvind Ltd | Consumer Discretionary | Equity | 0.42% |
+| Oracle Financial Services Software Ltd | Technology | Equity | 0.39% |
+| Aarti Industries Ltd | Materials | Equity | 0.37% |
+| Petronet LNG Ltd | Energy & Utilities | Equity | 0.36% |
+| SKF India Ltd | Industrials | Equity | 0.34% |
+| Vardhman Textiles Ltd | Consumer Discretionary | Equity | 0.33% |
+| Cholamandalam Financial Holdings Ltd | Financial | Equity | 0.31% |
+| KEC International Ltd | Diversified | Equity | 0.31% |
+| Vesuvius India Ltd | Industrials | Equity | 0.27% |
+| Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 0.26% |
+| Symphony Ltd | Consumer Discretionary | Equity | 0.20% |
+| Bharti Hexacom Ltd. | Technology | Equity | 0.19% |
+| Five-Star Business Finance Ltd | Financial | Equity | 0.19% |
+| Colgate-Palmolive (India) Ltd | Consumer Staples | Equity | 0.19% |
+| Billionbrains Garage Ventures Ltd. | Financial | Equity | 0.18% |
+| Navneet Education Ltd | Consumer Discretionary | Equity | 0.17% |
+| Net Current Assets | Unspecified | Net Current Assets | 0.16% |
+| LG Electronics India Ltd. | Consumer Discretionary | Equity | 0.16% |
 | Greenply Industries Ltd | Materials | Equity | 0.15% |
-| LG Electronics India Ltd. | Consumer Discretionary | Equity | 0.14% |
-| KNR Constructions Ltd | Industrials | Equity | 0.12% |
-| Dhanuka Agritech Ltd | Materials | Equity | 0.10% |
-| Greenpanel Industries Ltd | Materials | Equity | 0.08% |
-| Jagran Prakashan Ltd | Industrials | Equity | 0.03% |
-| Net Current Assets | Unspecified | Net Current Assets | 0.02% |
+| Greenlam Industries Ltd | Materials | Equity | 0.14% |
+| Emami Ltd | Consumer Staples | Equity | 0.10% |
+| Dhanuka Agritech Ltd | Materials | Equity | 0.09% |
+| KNR Constructions Ltd | Industrials | Equity | 0.05% |
+| Greenpanel Industries Ltd | Materials | Equity | 0.04% |
+| Jagran Prakashan Ltd | Industrials | Equity | 0.02% |
 
 Repo
 
@@ -91,65 +91,63 @@ AU Small Finance Bank Ltd
 
 Max Financial Services Ltd
 
-Balkrishna Industries Ltd
-
 Ipca Laboratories Ltd
-
-Indian Bank
-
-Fortis Healthcare Ltd
 
 Glenmark Pharmaceuticals Ltd
 
+Indian Bank
+
+Balkrishna Industries Ltd
+
 Coforge Ltd
+
+Fortis Healthcare Ltd
+
+Vishal Mega Mart Ltd.
 
 Marico Ltd
 
 Mahindra & Mahindra Financial Services Ltd
 
-Vishal Mega Mart Ltd.
+Aurobindo Pharma Ltd
 
 Hindustan Petroleum Corporation Ltd
 
-Cummins India Ltd
-
-Aurobindo Pharma Ltd
-
 United Spirits Ltd
 
-Tata Communications Ltd
+Cummins India Ltd
 
 Persistent Systems Ltd
 
-Alkem Laboratories Ltd
+Tata Communications Ltd
 
 Apollo Tyres Ltd
 
-Mphasis Ltd
-
-Dabur India Ltd
+PB Fintech Ltd
 
 Jindal Steel & Power Ltd
 
-PB Fintech Ltd
+Gland Pharma Ltd
 
-AIA Engineering Ltd
+Alkem Laboratories Ltd
+
+Mphasis Ltd
 
 Union Bank of India
 
-Delhivery Ltd
-
-Gland Pharma Ltd
-
-Bharat Forge Ltd
-
-Karur Vysya Bank Ltd
-
-Zomato Ltd
+Dabur India Ltd
 
 Bosch Ltd
 
-Star Health & Allied Insurance Co. Ltd
+Delhivery Ltd
+
+AIA Engineering Ltd
+
+Zomato Ltd
+
+Karur Vysya Bank Ltd
+
+Bharat Forge Ltd
 
 Indusind Bank Ltd
 
@@ -157,45 +155,45 @@ Nippon Life India Asset Management Ltd
 
 Coromandel International Ltd
 
+Star Health & Allied Insurance Co. Ltd
+
 The Indian Hotels Company Ltd
-
-Escorts Kubota Ltd
-
-Godrej Consumer Products Ltd
 
 Redington Ltd
 
-ICICI Lombard General Insurance Company Ltd
-
-HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/-
-
-Indraprastha Gas Ltd
-
-Sona BLW Precision Forgings Ltd
-
-Crompton Greaves Consumer Electricals Ltd
-
 Havells India Ltd
 
-Dixon Technologies (India) Ltd
-
-Sundram Fasteners Ltd
-
-City Union Bank Ltd
-
-ACC Ltd
-
-SKF India (Industrial) Ltd
-
-Timken India Ltd
-
-Gujarat Fluorochemicals Ltd
-
-Supreme Industries Ltd
+ICICI Lombard General Insurance Company Ltd
 
 Aster DM Healthcare Ltd
 
-KEC International Ltd
+Godrej Consumer Products Ltd
+
+Escorts Kubota Ltd
+
+Sundram Fasteners Ltd
+
+HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/-
+
+Sona BLW Precision Forgings Ltd
+
+Indraprastha Gas Ltd
+
+Dixon Technologies (India) Ltd
+
+City Union Bank Ltd
+
+SKF India (Industrial) Ltd
+
+Crompton Greaves Consumer Electricals Ltd
+
+Gujarat Fluorochemicals Ltd
+
+Timken India Ltd
+
+ACC Ltd
+
+Supreme Industries Ltd
 
 Arvind Ltd
 
@@ -203,47 +201,49 @@ Oracle Financial Services Software Ltd
 
 Aarti Industries Ltd
 
+Petronet LNG Ltd
+
+SKF India Ltd
+
 Vardhman Textiles Ltd
 
 Cholamandalam Financial Holdings Ltd
 
-SKF India Ltd
+KEC International Ltd
 
 Vesuvius India Ltd
 
 Mahindra CIE Automotive Ltd
 
-Emami Ltd
-
 Symphony Ltd
 
 Bharti Hexacom Ltd.
 
-Colgate-Palmolive (India) Ltd
-
-Petronet LNG Ltd
-
 Five-Star Business Finance Ltd
+
+Colgate-Palmolive (India) Ltd
 
 Billionbrains Garage Ventures Ltd.
 
 Navneet Education Ltd
 
-Greenlam Industries Ltd
-
-Greenply Industries Ltd
+Net Current Assets
 
 LG Electronics India Ltd.
 
-KNR Constructions Ltd
+Greenply Industries Ltd
+
+Greenlam Industries Ltd
+
+Emami Ltd
 
 Dhanuka Agritech Ltd
+
+KNR Constructions Ltd
 
 Greenpanel Industries Ltd
 
 Jagran Prakashan Ltd
-
-Net Current Assets
 
 ## Sector Allocation
 
@@ -254,7 +254,7 @@ Absolute returns
 | Fund returns | +16.4% | +19.1% | +17.2% | +20.1% |
 | --- | --- | --- | --- | --- |
 | Category average (Equity Mid Cap) | +21.6% | +21.5% | +16.0% | -- |
-| Rank (Equity Mid Cap) | 14 | 4 | 8 | -- |
+| Rank (Equity Mid Cap) | 16 | 4 | 8 | -- |
 
 Fund benchmark
 
@@ -324,11 +324,11 @@ The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the aver
 ## Expense Ratio
 
 The term Expense Ratio used for HDFC Mid Cap Fund Direct Growth or any other mutual fund is the annual
-charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.75% as of 12 Sep 2026...
+charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.75% as of 13 Sep 2026...
 
 ## Aum
 
-The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹1,08,324.55Cr as of 12 Sep 2026.
+The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹1,08,324.55Cr as of 13 Sep 2026.
 
 ## How to Redeem HDFC Mid Cap Fund Direct Growth?
 
