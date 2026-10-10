@@ -1,9 +1,9 @@
 ## General
 
-| HDFC Silver ETF Regular - Growth | Unspecified | Mutual Fund | 100.29% |
+| HDFC Silver ETF Regular - Growth | Unspecified | Mutual Fund | 100.32% |
 | --- | --- | --- | --- |
-| Repo | Unspecified | Repo | 0.30% |
-| Net Payables | Unspecified | Net Payables | -0.59% |
+| Repo | Unspecified | Repo | 0.33% |
+| Net Payables | Unspecified | Net Payables | -0.65% |
 
 HDFC Silver ETF Regular - Growth
 
@@ -17,10 +17,10 @@ Annualised returns
 
 Absolute returns
 
-| Fund returns | -11.1% | +36.5% | +43.3% | +38.2% |
+| Fund returns | -6.5% | +36.5% | +43.3% | +38.2% |
 | --- | --- | --- | --- | --- |
-| Category average (Commodities Silver) | -7.1% | +52.4% | +44.0% | +30.4% |
-| Rank (Commodities Silver) | -- | 5 | 5 | -- |
+| Category average (Commodities Silver) | -10.8% | +40.0% | +44.3% | +29.9% |
+| Rank (Commodities Silver) | -- | 6 | 5 | -- |
 
 Fund benchmark
 
@@ -86,11 +86,11 @@ The HDFC Silver ETF FoF Direct Growth has been there from 28 Oct 2022 and the av
 ## Expense Ratio
 
 The term Expense Ratio used for HDFC Silver ETF FoF Direct Growth or any other mutual fund is the annual
-charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.21% as of 09 Oct 2026...
+charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.21% as of 10 Oct 2026...
 
 ## Aum
 
-The AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹4,698.50Cr as of 09 Oct 2026.
+The AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹4,497.00Cr as of 10 Oct 2026.
 
 ## How to Redeem HDFC Silver ETF FoF Direct Growth?
 
@@ -105,7 +105,7 @@ your investment objective and risk tolerance.
 
 ## Nav
 
-The NAV of HDFC Silver ETF FoF Direct Growth is ₹35.53 as of 08 Oct 2026.
+The NAV of HDFC Silver ETF FoF Direct Growth is ₹36.17 as of 09 Oct 2026.
 
 ## What is the PE and PB ratio of HDFC Silver ETF FoF Direct Growth?
 
