@@ -269,10 +269,10 @@ Annualised returns
 
 Absolute returns
 
-| Fund returns | +9.7% | +13.0% | +16.9% | +17.9% |
+| Fund returns | +9.1% | +12.9% | +16.9% | +17.9% |
 | --- | --- | --- | --- | --- |
 | Category average (Equity Small Cap) | +15.4% | +14.8% | +17.2% | +20.0% |
-| Rank (Equity Small Cap) | 34 | 18 | 6 | -- |
+| Rank (Equity Small Cap) | 34 | 17 | 6 | -- |
 
 Fund benchmark
 
@@ -286,7 +286,7 @@ Rank (total assets)
 
 Total AUM
 
-₹9,86,236.84 Cr
+₹9,34,075.66 Cr
 
 Date of Incorporation
 
@@ -344,11 +344,11 @@ The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the av
 ## Expense Ratio
 
 The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual
-charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.79% as of 12 Oct 2026...
+charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.64% as of 13 Oct 2026...
 
 ## Aum
 
-The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹40,800.80Cr as of 12 Oct 2026.
+The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹40,800.80Cr as of 13 Oct 2026.
 
 ## How to Redeem HDFC Small Cap Fund Direct Growth?
 
@@ -363,7 +363,7 @@ your investment objective and risk tolerance.
 
 ## Nav
 
-The NAV of HDFC Small Cap Fund Direct Growth is ₹154.45 as of 09 Oct 2026.
+The NAV of HDFC Small Cap Fund Direct Growth is ₹154.78 as of 12 Oct 2026.
 
 ## What is the PE and PB ratio of HDFC Small Cap Fund Direct Growth?
 
