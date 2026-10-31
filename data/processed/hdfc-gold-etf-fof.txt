@@ -2,66 +2,66 @@
 
 | Date | NAV |
 | --- | --- |
-| 29 Oct 2023 | ₹19.65 |
-| 16 Nov 2023 | ₹19.53 |
-| 05 Dec 2023 | ₹19.94 |
-| 25 Dec 2023 | ₹20.16 |
-| 10 Jan 2024 | ₹19.96 |
-| 31 Jan 2024 | ₹20.07 |
-| 18 Feb 2024 | ₹19.87 |
-| 06 Mar 2024 | ₹20.88 |
-| 26 Mar 2024 | ₹21.36 |
-| 15 Apr 2024 | ₹23.37 |
-| 05 May 2024 | ₹22.95 |
-| 23 May 2024 | ₹22.96 |
-| 10 Jun 2024 | ₹22.81 |
-| 30 Jun 2024 | ₹22.93 |
-| 17 Jul 2024 | ₹23.77 |
-| 05 Aug 2024 | ₹22.16 |
-| 22 Aug 2024 | ₹22.75 |
-| 10 Sep 2024 | ₹22.92 |
-| 26 Sep 2024 | ₹23.99 |
-| 16 Oct 2024 | ₹24.31 |
-| 05 Nov 2024 | ₹24.79 |
-| 25 Nov 2024 | ₹23.96 |
-| 12 Dec 2024 | ₹24.40 |
-| 31 Dec 2024 | ₹24.30 |
-| 19 Jan 2025 | ₹25.24 |
-| 04 Feb 2025 | ₹26.90 |
-| 23 Feb 2025 | ₹27.39 |
-| 12 Mar 2025 | ₹27.41 |
-| 01 Apr 2025 | ₹28.75 |
-| 22 Apr 2025 | ₹30.31 |
-| 12 May 2025 | ₹29.86 |
-| 28 May 2025 | ₹29.86 |
-| 16 Jun 2025 | ₹31.17 |
-| 02 Jul 2025 | ₹30.59 |
-| 21 Jul 2025 | ₹31.25 |
-| 06 Aug 2025 | ₹31.68 |
-| 27 Aug 2025 | ₹31.85 |
-| 14 Sep 2025 | ₹34.33 |
-| 02 Oct 2025 | ₹36.66 |
-| 22 Oct 2025 | ₹38.48 |
-| 11 Nov 2025 | ₹38.76 |
-| 30 Nov 2025 | ₹40.31 |
-| 16 Dec 2025 | ₹41.47 |
-| 05 Jan 2026 | ₹42.72 |
-| 22 Jan 2026 | ₹48.18 |
-| 11 Feb 2026 | ₹48.52 |
-| 01 Mar 2026 | ₹52.13 |
-| 19 Mar 2026 | ₹45.71 |
-| 08 Apr 2026 | ₹46.49 |
-| 28 Apr 2026 | ₹45.84 |
-| 17 May 2026 | ₹48.93 |
-| 04 Jun 2026 | ₹48.20 |
-| 22 Jun 2026 | ₹44.87 |
-| 12 Jul 2026 | ₹44.07 |
-| 28 Jul 2026 | ₹44.07 |
-| 16 Aug 2026 | ₹47.67 |
-| 01 Sep 2026 | ₹46.64 |
-| 21 Sep 2026 | ₹47.17 |
-| 08 Oct 2026 | ₹46.27 |
-| 28 Oct 2026 | ₹43.87 |
+| 30 Oct 2023 | ₹19.66 |
+| 19 Nov 2023 | ₹19.52 |
+| 06 Dec 2023 | ₹19.99 |
+| 26 Dec 2023 | ₹20.26 |
+| 11 Jan 2024 | ₹20.02 |
+| 01 Feb 2024 | ₹20.15 |
+| 19 Feb 2024 | ₹19.83 |
+| 10 Mar 2024 | ₹21.09 |
+| 27 Mar 2024 | ₹21.38 |
+| 17 Apr 2024 | ₹23.41 |
+| 06 May 2024 | ₹22.88 |
+| 26 May 2024 | ₹23.01 |
+| 11 Jun 2024 | ₹22.91 |
+| 01 Jul 2024 | ₹22.97 |
+| 18 Jul 2024 | ₹23.55 |
+| 06 Aug 2024 | ₹22.10 |
+| 25 Aug 2024 | ₹22.96 |
+| 11 Sep 2024 | ₹22.88 |
+| 29 Sep 2024 | ₹24.02 |
+| 17 Oct 2024 | ₹24.59 |
+| 06 Nov 2024 | ₹24.25 |
+| 26 Nov 2024 | ₹24.18 |
+| 15 Dec 2024 | ₹24.34 |
+| 01 Jan 2025 | ₹24.39 |
+| 20 Jan 2025 | ₹25.33 |
+| 05 Feb 2025 | ₹26.93 |
+| 24 Feb 2025 | ₹27.47 |
+| 16 Mar 2025 | ₹27.70 |
+| 02 Apr 2025 | ₹28.70 |
+| 23 Apr 2025 | ₹30.36 |
+| 13 May 2025 | ₹29.69 |
+| 29 May 2025 | ₹30.06 |
+| 17 Jun 2025 | ₹31.26 |
+| 03 Jul 2025 | ₹30.53 |
+| 22 Jul 2025 | ₹31.63 |
+| 07 Aug 2025 | ₹31.82 |
+| 28 Aug 2025 | ₹32.19 |
+| 15 Sep 2025 | ₹34.81 |
+| 05 Oct 2025 | ₹37.41 |
+| 23 Oct 2025 | ₹37.76 |
+| 12 Nov 2025 | ₹39.72 |
+| 01 Dec 2025 | ₹39.98 |
+| 17 Dec 2025 | ₹41.50 |
+| 06 Jan 2026 | ₹42.62 |
+| 26 Jan 2026 | ₹49.58 |
+| 12 Feb 2026 | ₹47.61 |
+| 03 Mar 2026 | ₹50.54 |
+| 22 Mar 2026 | ₹41.60 |
+| 09 Apr 2026 | ₹46.57 |
+| 29 Apr 2026 | ₹46.56 |
+| 18 May 2026 | ₹49.25 |
+| 07 Jun 2026 | ₹46.89 |
+| 23 Jun 2026 | ₹44.32 |
+| 13 Jul 2026 | ₹43.77 |
+| 29 Jul 2026 | ₹44.27 |
+| 17 Aug 2026 | ₹47.71 |
+| 02 Sep 2026 | ₹47.58 |
+| 22 Sep 2026 | ₹47.05 |
+| 11 Oct 2026 | ₹45.76 |
+| 29 Oct 2026 | ₹43.45 |
 
 | HDFC Gold ETF | Unspecified | Mutual Fund | 100.12% |
 | --- | --- | --- | --- |
@@ -78,7 +78,7 @@ Net Payables
 
 | Fund returns | +30.9% | +22.9% | +15.5% | +10.5% |
 | --- | --- | --- | --- | --- |
-| Category average (Commodities Gold) | +32.7% | +23.8% | +16.5% | +12.4% |
+| Category average (Commodities Gold) | +32.7% | +23.9% | +16.4% | +12.4% |
 | Rank (Commodities Gold) | 6 | 4 | 2 | -- |
 
 Fund benchmark
@@ -139,9 +139,9 @@ investment objective and risk tolerance
 The HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 10.47% since its inception.
 
 The term Expense Ratio used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual
-charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.17% as of 30 Oct 2026...
+charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.17% as of 31 Oct 2026...
 
-The AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹12,013.27Cr as of 30 Oct 2026.
+The AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹12,013.27Cr as of 31 Oct 2026.
 
 If you want to sell your HDFC Gold ETF Fund of Fund Direct Plan Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -150,7 +150,7 @@ desired amount or if you wish to redeem the entire holding amount then select th
 You can select either SIP or Lumpsum investment of HDFC Gold ETF Fund of Fund Direct Plan Growth based on
 your investment objective and risk tolerance.
 
-The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹43.87 as of 29 Oct 2026.
+The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹43.45 as of 30 Oct 2026.
 
 The PE ratio ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is determined by dividing the market price by
 its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value
