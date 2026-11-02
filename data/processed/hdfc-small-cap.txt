@@ -2,65 +2,65 @@
 
 | Date | NAV |
 | --- | --- |
-| 31 Oct 2023 | ₹114.58 |
+| 01 Nov 2023 | ₹115.38 |
 | 20 Nov 2023 | ₹122.12 |
-| 07 Dec 2023 | ₹125.28 |
+| 10 Dec 2023 | ₹125.85 |
 | 27 Dec 2023 | ₹128.70 |
-| 14 Jan 2024 | ₹132.97 |
+| 15 Jan 2024 | ₹133.16 |
 | 04 Feb 2024 | ₹137.08 |
-| 20 Feb 2024 | ₹136.11 |
+| 21 Feb 2024 | ₹136.52 |
 | 11 Mar 2024 | ₹130.56 |
-| 30 Mar 2024 | ₹132.27 |
+| 31 Mar 2024 | ₹134.81 |
 | 18 Apr 2024 | ₹137.63 |
-| 07 May 2024 | ₹137.32 |
+| 08 May 2024 | ₹134.85 |
 | 27 May 2024 | ₹139.73 |
-| 12 Jun 2024 | ₹147.56 |
+| 13 Jun 2024 | ₹148.52 |
 | 02 Jul 2024 | ₹152.53 |
-| 21 Jul 2024 | ₹152.14 |
+| 22 Jul 2024 | ₹151.31 |
 | 07 Aug 2024 | ₹152.35 |
-| 26 Aug 2024 | ₹159.15 |
+| 27 Aug 2024 | ₹159.25 |
 | 12 Sep 2024 | ₹162.53 |
-| 30 Sep 2024 | ₹161.10 |
+| 02 Oct 2024 | ₹158.42 |
 | 20 Oct 2024 | ₹156.93 |
-| 06 Nov 2024 | ₹161.09 |
+| 07 Nov 2024 | ₹158.37 |
 | 27 Nov 2024 | ₹157.18 |
-| 15 Dec 2024 | ₹163.59 |
+| 16 Dec 2024 | ₹162.46 |
 | 02 Jan 2025 | ₹160.19 |
-| 20 Jan 2025 | ₹148.22 |
+| 21 Jan 2025 | ₹146.52 |
 | 06 Feb 2025 | ₹145.43 |
-| 24 Feb 2025 | ₹133.83 |
+| 26 Feb 2025 | ₹131.76 |
 | 17 Mar 2025 | ₹131.03 |
-| 02 Apr 2025 | ₹138.61 |
+| 03 Apr 2025 | ₹134.53 |
 | 24 Apr 2025 | ₹140.65 |
-| 13 May 2025 | ₹147.01 |
+| 14 May 2025 | ₹148.81 |
 | 01 Jun 2025 | ₹153.69 |
-| 17 Jun 2025 | ₹155.42 |
+| 18 Jun 2025 | ₹153.04 |
 | 06 Jul 2025 | ₹161.16 |
-| 22 Jul 2025 | ₹163.03 |
+| 23 Jul 2025 | ₹163.25 |
 | 10 Aug 2025 | ₹157.74 |
-| 28 Aug 2025 | ₹158.50 |
+| 31 Aug 2025 | ₹160.57 |
 | 16 Sep 2025 | ₹164.94 |
-| 05 Oct 2025 | ₹161.58 |
+| 06 Oct 2025 | ₹161.08 |
 | 26 Oct 2025 | ₹164.14 |
-| 12 Nov 2025 | ₹162.57 |
+| 13 Nov 2025 | ₹162.41 |
 | 01 Dec 2025 | ₹160.56 |
-| 17 Dec 2025 | ₹156.15 |
+| 18 Dec 2025 | ₹157.60 |
 | 06 Jan 2026 | ₹159.16 |
-| 26 Jan 2026 | ₹148.81 |
+| 27 Jan 2026 | ₹150.68 |
 | 12 Feb 2026 | ₹154.12 |
-| 03 Mar 2026 | ₹147.10 |
+| 04 Mar 2026 | ₹148.23 |
 | 22 Mar 2026 | ₹136.05 |
-| 09 Apr 2026 | ₹147.78 |
+| 12 Apr 2026 | ₹146.34 |
 | 29 Apr 2026 | ₹150.67 |
-| 18 May 2026 | ₹150.79 |
+| 19 May 2026 | ₹151.23 |
 | 07 Jun 2026 | ₹150.70 |
-| 23 Jun 2026 | ₹158.87 |
+| 24 Jun 2026 | ₹158.07 |
 | 13 Jul 2026 | ₹159.60 |
-| 29 Jul 2026 | ₹160.05 |
+| 30 Jul 2026 | ₹160.75 |
 | 17 Aug 2026 | ₹161.78 |
-| 02 Sep 2026 | ₹160.90 |
+| 03 Sep 2026 | ₹160.49 |
 | 22 Sep 2026 | ₹161.38 |
-| 11 Oct 2026 | ₹154.78 |
+| 12 Oct 2026 | ₹156.02 |
 | 29 Oct 2026 | ₹148.62 |
 
 | Repo | Unspecified | Repo | 10.03% |
@@ -397,9 +397,9 @@ investment objective and risk tolerance
 The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 17.53% since its inception.
 
 The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual
-charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.65% as of 01 Nov 2026...
+charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.65% as of 02 Nov 2026...
 
-The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹40,800.81Cr as of 01 Nov 2026.
+The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹40,800.81Cr as of 02 Nov 2026.
 
 If you want to sell your HDFC Small Cap Fund Direct Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
