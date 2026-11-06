@@ -22,46 +22,46 @@
 | 17 Sep 2024 | ₹14.80 |
 | 06 Oct 2024 | ₹15.61 |
 | 23 Oct 2024 | ₹16.64 |
-| 11 Nov 2024 | ₹15.04 |
+| 12 Nov 2024 | ₹15.33 |
 | 02 Dec 2024 | ₹15.31 |
-| 18 Dec 2024 | ₹14.81 |
+| 19 Dec 2024 | ₹14.50 |
 | 07 Jan 2025 | ₹15.21 |
-| 23 Jan 2025 | ₹15.47 |
+| 26 Jan 2025 | ₹15.28 |
 | 11 Feb 2025 | ₹15.96 |
-| 02 Mar 2025 | ₹15.97 |
+| 03 Mar 2025 | ₹16.14 |
 | 20 Mar 2025 | ₹16.44 |
-| 07 Apr 2025 | ₹15.31 |
+| 08 Apr 2025 | ₹15.41 |
 | 29 Apr 2025 | ₹16.00 |
-| 18 May 2025 | ₹16.19 |
+| 19 May 2025 | ₹16.14 |
 | 04 Jun 2025 | ₹17.54 |
-| 22 Jun 2025 | ₹18.09 |
+| 23 Jun 2025 | ₹17.90 |
 | 09 Jul 2025 | ₹18.07 |
-| 27 Jul 2025 | ₹19.01 |
+| 28 Jul 2025 | ₹19.08 |
 | 13 Aug 2025 | ₹19.32 |
-| 02 Sep 2025 | ₹20.72 |
+| 03 Sep 2025 | ₹20.77 |
 | 21 Sep 2025 | ₹22.36 |
-| 08 Oct 2025 | ₹28.10 |
+| 09 Oct 2025 | ₹27.24 |
 | 29 Oct 2025 | ₹24.45 |
-| 17 Nov 2025 | ₹25.45 |
-| 04 Dec 2025 | ₹29.56 |
-| 22 Dec 2025 | ₹35.10 |
-| 11 Jan 2026 | ₹42.27 |
-| 29 Jan 2026 | ₹51.48 |
-| 17 Feb 2026 | ₹38.68 |
-| 08 Mar 2026 | ₹42.74 |
-| 26 Mar 2026 | ₹36.51 |
-| 15 Apr 2026 | ₹41.12 |
-| 05 May 2026 | ₹40.58 |
-| 21 May 2026 | ₹43.65 |
-| 10 Jun 2026 | ₹38.26 |
-| 29 Jun 2026 | ₹36.83 |
-| 16 Jul 2026 | ₹35.36 |
-| 03 Aug 2026 | ₹35.78 |
-| 20 Aug 2026 | ₹40.18 |
-| 07 Sep 2026 | ₹38.21 |
-| 27 Sep 2026 | ₹36.31 |
-| 14 Oct 2026 | ₹34.07 |
-| 03 Nov 2026 | ₹30.45 |
+| 18 Nov 2025 | ₹26.11 |
+| 07 Dec 2025 | ₹29.73 |
+| 23 Dec 2025 | ₹36.36 |
+| 12 Jan 2026 | ₹43.40 |
+| 01 Feb 2026 | ₹37.15 |
+| 18 Feb 2026 | ₹40.39 |
+| 09 Mar 2026 | ₹44.35 |
+| 29 Mar 2026 | ₹37.45 |
+| 16 Apr 2026 | ₹41.17 |
+| 06 May 2026 | ₹41.38 |
+| 24 May 2026 | ₹44.27 |
+| 11 Jun 2026 | ₹39.74 |
+| 30 Jun 2026 | ₹36.53 |
+| 19 Jul 2026 | ₹35.97 |
+| 04 Aug 2026 | ₹36.87 |
+| 23 Aug 2026 | ₹40.01 |
+| 08 Sep 2026 | ₹38.42 |
+| 28 Sep 2026 | ₹36.08 |
+| 15 Oct 2026 | ₹34.51 |
+| 04 Nov 2026 | ₹30.74 |
 
 | HDFC Silver ETF Regular - Growth | Unspecified | Mutual Fund | 100.32% |
 | --- | --- | --- | --- |
@@ -76,10 +76,10 @@ Net Payables
 
 ## Sector Allocation
 
-| Fund returns | -23.7% | +25.4% | +35.6% | +32.2% |
+| Fund returns | -22.4% | +25.4% | +35.6% | +32.2% |
 | --- | --- | --- | --- | --- |
-| Category average (Commodities Silver) | -24.6% | +22.7% | +34.9% | +24.5% |
-| Rank (Commodities Silver) | -- | 8 | 4 | -- |
+| Category average (Commodities Silver) | -23.4% | +28.7% | +36.6% | +25.2% |
+| Rank (Commodities Silver) | -- | 9 | 4 | -- |
 
 Fund benchmark
 
@@ -139,9 +139,9 @@ investment objective and risk tolerance
 The HDFC Silver ETF FoF Direct Growth has been there from 28 Oct 2022 and the average annual returns provided by this fund is 32.17% since its inception.
 
 The term Expense Ratio used for HDFC Silver ETF FoF Direct Growth or any other mutual fund is the annual
-charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.18% as of 05 Nov 2026...
+charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.18% as of 06 Nov 2026...
 
-The AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹4,497.00Cr as of 05 Nov 2026.
+The AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹4,497.00Cr as of 06 Nov 2026.
 
 If you want to sell your HDFC Silver ETF FoF Direct Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -150,7 +150,7 @@ desired amount or if you wish to redeem the entire holding amount then select th
 You can select either SIP or Lumpsum investment of HDFC Silver ETF FoF Direct Growth based on
 your investment objective and risk tolerance.
 
-The NAV of HDFC Silver ETF FoF Direct Growth is ₹30.45 as of 04 Nov 2026.
+The NAV of HDFC Silver ETF FoF Direct Growth is ₹30.74 as of 05 Nov 2026.
 
 The PE ratio ratio of HDFC Silver ETF FoF Direct Growth is determined by dividing the market price by
 its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value

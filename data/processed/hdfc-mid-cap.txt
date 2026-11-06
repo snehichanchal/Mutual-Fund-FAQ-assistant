@@ -22,46 +22,46 @@
 | 17 Sep 2024 | ₹209.84 |
 | 06 Oct 2024 | ₹204.31 |
 | 23 Oct 2024 | ₹203.08 |
-| 11 Nov 2024 | ₹202.31 |
+| 12 Nov 2024 | ₹198.05 |
 | 02 Dec 2024 | ₹208.64 |
-| 18 Dec 2024 | ₹210.88 |
+| 19 Dec 2024 | ₹206.70 |
 | 07 Jan 2025 | ₹204.99 |
-| 23 Jan 2025 | ₹194.56 |
+| 26 Jan 2025 | ₹190.00 |
 | 11 Feb 2025 | ₹187.54 |
-| 02 Mar 2025 | ₹178.67 |
+| 03 Mar 2025 | ₹178.24 |
 | 20 Mar 2025 | ₹190.68 |
-| 07 Apr 2025 | ₹181.74 |
+| 08 Apr 2025 | ₹180.45 |
 | 29 Apr 2025 | ₹195.45 |
-| 18 May 2025 | ₹205.71 |
+| 19 May 2025 | ₹203.77 |
 | 04 Jun 2025 | ₹209.24 |
-| 22 Jun 2025 | ₹209.36 |
+| 23 Jun 2025 | ₹211.27 |
 | 09 Jul 2025 | ₹216.61 |
-| 27 Jul 2025 | ₹213.15 |
+| 28 Jul 2025 | ₹214.37 |
 | 13 Aug 2025 | ₹210.62 |
-| 02 Sep 2025 | ₹213.16 |
+| 03 Sep 2025 | ₹211.92 |
 | 21 Sep 2025 | ₹216.41 |
-| 08 Oct 2025 | ₹216.54 |
+| 09 Oct 2025 | ₹217.34 |
 | 29 Oct 2025 | ₹222.58 |
-| 17 Nov 2025 | ₹224.79 |
-| 04 Dec 2025 | ₹224.68 |
-| 22 Dec 2025 | ₹224.89 |
-| 11 Jan 2026 | ₹221.70 |
-| 29 Jan 2026 | ₹221.44 |
-| 17 Feb 2026 | ₹226.72 |
-| 08 Mar 2026 | ₹210.94 |
-| 26 Mar 2026 | ₹204.04 |
-| 15 Apr 2026 | ₹218.21 |
-| 05 May 2026 | ₹222.53 |
-| 21 May 2026 | ₹220.36 |
-| 10 Jun 2026 | ₹216.81 |
-| 29 Jun 2026 | ₹226.77 |
-| 16 Jul 2026 | ₹229.28 |
-| 03 Aug 2026 | ₹235.31 |
-| 20 Aug 2026 | ₹236.59 |
-| 07 Sep 2026 | ₹233.75 |
-| 27 Sep 2026 | ₹223.17 |
-| 14 Oct 2026 | ₹221.57 |
-| 03 Nov 2026 | ₹223.14 |
+| 18 Nov 2025 | ₹225.47 |
+| 07 Dec 2025 | ₹221.48 |
+| 23 Dec 2025 | ₹223.51 |
+| 12 Jan 2026 | ₹221.66 |
+| 01 Feb 2026 | ₹218.92 |
+| 18 Feb 2026 | ₹223.60 |
+| 09 Mar 2026 | ₹214.60 |
+| 29 Mar 2026 | ₹199.42 |
+| 16 Apr 2026 | ₹220.06 |
+| 06 May 2026 | ₹223.74 |
+| 24 May 2026 | ₹222.38 |
+| 11 Jun 2026 | ₹220.16 |
+| 30 Jun 2026 | ₹227.18 |
+| 19 Jul 2026 | ₹229.60 |
+| 04 Aug 2026 | ₹235.98 |
+| 23 Aug 2026 | ₹237.12 |
+| 08 Sep 2026 | ₹232.27 |
+| 28 Sep 2026 | ₹221.35 |
+| 15 Oct 2026 | ₹221.06 |
+| 04 Nov 2026 | ₹226.14 |
 
 | Repo | Unspecified | Repo | 8.37% |
 | --- | --- | --- | --- |
@@ -312,7 +312,7 @@ Net Payables
 
 | Fund returns | +16.1% | +17.6% | +17.1% | +19.6% |
 | --- | --- | --- | --- | --- |
-| Category average (Equity Mid Cap) | +14.6% | +13.4% | +15.6% | +18.0% |
+| Category average (Equity Mid Cap) | +15.3% | +14.1% | +16.2% | +18.2% |
 | Rank (Equity Mid Cap) | 15 | 4 | 7 | -- |
 
 Fund benchmark
@@ -377,9 +377,9 @@ investment objective and risk tolerance
 The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 19.56% since its inception.
 
 The term Expense Ratio used for HDFC Mid Cap Fund Direct Growth or any other mutual fund is the annual
-charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.60% as of 05 Nov 2026...
+charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.60% as of 06 Nov 2026...
 
-The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹1,01,856.06Cr as of 05 Nov 2026.
+The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹1,01,856.06Cr as of 06 Nov 2026.
 
 If you want to sell your HDFC Mid Cap Fund Direct Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -388,7 +388,7 @@ desired amount or if you wish to redeem the entire holding amount then select th
 You can select either SIP or Lumpsum investment of HDFC Mid Cap Fund Direct Growth based on
 your investment objective and risk tolerance.
 
-The NAV of HDFC Mid Cap Fund Direct Growth is ₹223.14 as of 04 Nov 2026.
+The NAV of HDFC Mid Cap Fund Direct Growth is ₹226.14 as of 05 Nov 2026.
 
 The PE ratio ratio of HDFC Mid Cap Fund Direct Growth is determined by dividing the market price by
 its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value

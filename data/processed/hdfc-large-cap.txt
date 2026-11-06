@@ -22,46 +22,46 @@
 | 17 Sep 2024 | ₹1,272.89 |
 | 06 Oct 2024 | ₹1,237.65 |
 | 23 Oct 2024 | ₹1,217.95 |
-| 11 Nov 2024 | ₹1,187.90 |
+| 12 Nov 2024 | ₹1,172.94 |
 | 02 Dec 2024 | ₹1,215.62 |
-| 18 Dec 2024 | ₹1,190.55 |
+| 19 Dec 2024 | ₹1,173.19 |
 | 07 Jan 2025 | ₹1,176.72 |
-| 23 Jan 2025 | ₹1,145.10 |
+| 26 Jan 2025 | ₹1,131.09 |
 | 11 Feb 2025 | ₹1,140.84 |
-| 02 Mar 2025 | ₹1,097.27 |
+| 03 Mar 2025 | ₹1,095.15 |
 | 20 Mar 2025 | ₹1,159.80 |
-| 07 Apr 2025 | ₹1,116.59 |
+| 08 Apr 2025 | ₹1,108.97 |
 | 29 Apr 2025 | ₹1,198.24 |
-| 18 May 2025 | ₹1,221.05 |
+| 19 May 2025 | ₹1,209.58 |
 | 04 Jun 2025 | ₹1,210.32 |
-| 22 Jun 2025 | ₹1,217.50 |
+| 23 Jun 2025 | ₹1,223.83 |
 | 09 Jul 2025 | ₹1,239.23 |
-| 27 Jul 2025 | ₹1,220.64 |
+| 28 Jul 2025 | ₹1,227.79 |
 | 13 Aug 2025 | ₹1,214.91 |
-| 02 Sep 2025 | ₹1,221.50 |
+| 03 Sep 2025 | ₹1,220.37 |
 | 21 Sep 2025 | ₹1,246.42 |
-| 08 Oct 2025 | ₹1,237.53 |
+| 09 Oct 2025 | ₹1,241.75 |
 | 29 Oct 2025 | ₹1,266.27 |
-| 17 Nov 2025 | ₹1,270.26 |
-| 04 Dec 2025 | ₹1,277.34 |
-| 22 Dec 2025 | ₹1,279.98 |
-| 11 Jan 2026 | ₹1,272.32 |
-| 29 Jan 2026 | ₹1,244.19 |
-| 17 Feb 2026 | ₹1,282.15 |
-| 08 Mar 2026 | ₹1,195.36 |
-| 26 Mar 2026 | ₹1,134.54 |
-| 15 Apr 2026 | ₹1,199.59 |
-| 05 May 2026 | ₹1,206.94 |
-| 21 May 2026 | ₹1,178.66 |
-| 10 Jun 2026 | ₹1,159.48 |
-| 29 Jun 2026 | ₹1,211.25 |
-| 16 Jul 2026 | ₹1,239.11 |
-| 03 Aug 2026 | ₹1,258.94 |
-| 20 Aug 2026 | ₹1,245.13 |
-| 07 Sep 2026 | ₹1,218.25 |
-| 27 Sep 2026 | ₹1,170.11 |
-| 14 Oct 2026 | ₹1,169.42 |
-| 03 Nov 2026 | ₹1,207.09 |
+| 18 Nov 2025 | ₹1,272.46 |
+| 07 Dec 2025 | ₹1,264.81 |
+| 23 Dec 2025 | ₹1,276.95 |
+| 12 Jan 2026 | ₹1,271.50 |
+| 01 Feb 2026 | ₹1,234.97 |
+| 18 Feb 2026 | ₹1,262.62 |
+| 09 Mar 2026 | ₹1,211.34 |
+| 29 Mar 2026 | ₹1,107.31 |
+| 16 Apr 2026 | ₹1,207.38 |
+| 06 May 2026 | ₹1,208.78 |
+| 24 May 2026 | ₹1,194.84 |
+| 11 Jun 2026 | ₹1,186.88 |
+| 30 Jun 2026 | ₹1,220.30 |
+| 19 Jul 2026 | ₹1,236.57 |
+| 04 Aug 2026 | ₹1,259.65 |
+| 23 Aug 2026 | ₹1,243.69 |
+| 08 Sep 2026 | ₹1,209.16 |
+| 28 Sep 2026 | ₹1,165.78 |
+| 15 Oct 2026 | ₹1,172.67 |
+| 04 Nov 2026 | ₹1,233.61 |
 
 | ICICI Bank Ltd | Financial | Equity | 9.79% |
 | --- | --- | --- | --- |
@@ -214,7 +214,7 @@ Net Payables
 
 | Fund returns | +9.6% | +10.1% | +12.6% | +12.8% |
 | --- | --- | --- | --- | --- |
-| Category average (Equity Large Cap) | +11.0% | +8.6% | +12.2% | +12.6% |
+| Category average (Equity Large Cap) | +11.5% | +9.1% | +12.6% | +12.8% |
 | Rank (Equity Large Cap) | 50 | 20 | 13 | -- |
 
 Fund benchmark
@@ -281,9 +281,9 @@ investment objective and risk tolerance
 The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 12.75% since its inception.
 
 The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual
-charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 0.84% as of 05 Nov 2026...
+charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 0.83% as of 06 Nov 2026...
 
-The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹37,293.95Cr as of 05 Nov 2026.
+The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹37,293.95Cr as of 06 Nov 2026.
 
 If you want to sell your HDFC Large Cap Fund Direct Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -292,7 +292,7 @@ desired amount or if you wish to redeem the entire holding amount then select th
 You can select either SIP or Lumpsum investment of HDFC Large Cap Fund Direct Growth based on
 your investment objective and risk tolerance.
 
-The NAV of HDFC Large Cap Fund Direct Growth is ₹1,207.09 as of 04 Nov 2026.
+The NAV of HDFC Large Cap Fund Direct Growth is ₹1,233.61 as of 05 Nov 2026.
 
 The PE ratio ratio of HDFC Large Cap Fund Direct Growth is determined by dividing the market price by
 its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value
