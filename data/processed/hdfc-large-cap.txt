@@ -2,66 +2,66 @@
 
 | Date | NAV |
 | --- | --- |
-| 05 Nov 2023 | ₹924.62 |
-| 23 Nov 2023 | ₹949.59 |
-| 12 Dec 2023 | ₹1,013.54 |
-| 01 Jan 2024 | ₹1,047.90 |
-| 17 Jan 2024 | ₹1,049.79 |
-| 07 Feb 2024 | ₹1,071.67 |
-| 25 Feb 2024 | ₹1,086.11 |
-| 14 Mar 2024 | ₹1,083.15 |
-| 02 Apr 2024 | ₹1,110.50 |
-| 23 Apr 2024 | ₹1,109.29 |
-| 12 May 2024 | ₹1,097.70 |
-| 30 May 2024 | ₹1,128.45 |
-| 18 Jun 2024 | ₹1,167.46 |
-| 07 Jul 2024 | ₹1,208.81 |
-| 24 Jul 2024 | ₹1,214.47 |
-| 12 Aug 2024 | ₹1,212.14 |
-| 29 Aug 2024 | ₹1,264.33 |
-| 17 Sep 2024 | ₹1,272.89 |
-| 06 Oct 2024 | ₹1,237.65 |
-| 23 Oct 2024 | ₹1,217.95 |
-| 12 Nov 2024 | ₹1,172.94 |
-| 02 Dec 2024 | ₹1,215.62 |
-| 19 Dec 2024 | ₹1,173.19 |
-| 07 Jan 2025 | ₹1,176.72 |
-| 26 Jan 2025 | ₹1,131.09 |
-| 11 Feb 2025 | ₹1,140.84 |
-| 03 Mar 2025 | ₹1,095.15 |
-| 20 Mar 2025 | ₹1,159.80 |
-| 08 Apr 2025 | ₹1,108.97 |
-| 29 Apr 2025 | ₹1,198.24 |
-| 19 May 2025 | ₹1,209.58 |
-| 04 Jun 2025 | ₹1,210.32 |
-| 23 Jun 2025 | ₹1,223.83 |
-| 09 Jul 2025 | ₹1,239.23 |
-| 28 Jul 2025 | ₹1,227.79 |
-| 13 Aug 2025 | ₹1,214.91 |
-| 03 Sep 2025 | ₹1,220.37 |
-| 21 Sep 2025 | ₹1,246.42 |
-| 09 Oct 2025 | ₹1,241.75 |
-| 29 Oct 2025 | ₹1,266.27 |
-| 18 Nov 2025 | ₹1,272.46 |
-| 07 Dec 2025 | ₹1,264.81 |
-| 23 Dec 2025 | ₹1,276.95 |
-| 12 Jan 2026 | ₹1,271.50 |
-| 01 Feb 2026 | ₹1,234.97 |
-| 18 Feb 2026 | ₹1,262.62 |
-| 09 Mar 2026 | ₹1,211.34 |
-| 29 Mar 2026 | ₹1,107.31 |
-| 16 Apr 2026 | ₹1,207.38 |
-| 06 May 2026 | ₹1,208.78 |
-| 24 May 2026 | ₹1,194.84 |
-| 11 Jun 2026 | ₹1,186.88 |
-| 30 Jun 2026 | ₹1,220.30 |
-| 19 Jul 2026 | ₹1,236.57 |
-| 04 Aug 2026 | ₹1,259.65 |
-| 23 Aug 2026 | ₹1,243.69 |
-| 08 Sep 2026 | ₹1,209.16 |
-| 28 Sep 2026 | ₹1,165.78 |
-| 15 Oct 2026 | ₹1,172.67 |
-| 04 Nov 2026 | ₹1,233.61 |
+| 06 Nov 2023 | ₹926.06 |
+| 27 Nov 2023 | ₹954.09 |
+| 13 Dec 2023 | ₹1,024.96 |
+| 02 Jan 2024 | ₹1,045.20 |
+| 18 Jan 2024 | ₹1,060.05 |
+| 08 Feb 2024 | ₹1,070.79 |
+| 26 Feb 2024 | ₹1,090.74 |
+| 17 Mar 2024 | ₹1,084.96 |
+| 03 Apr 2024 | ₹1,112.79 |
+| 24 Apr 2024 | ₹1,116.77 |
+| 13 May 2024 | ₹1,102.82 |
+| 02 Jun 2024 | ₹1,167.75 |
+| 19 Jun 2024 | ₹1,169.58 |
+| 08 Jul 2024 | ₹1,214.48 |
+| 25 Jul 2024 | ₹1,235.17 |
+| 13 Aug 2024 | ₹1,212.04 |
+| 01 Sep 2024 | ₹1,263.01 |
+| 18 Sep 2024 | ₹1,275.59 |
+| 07 Oct 2024 | ₹1,249.56 |
+| 24 Oct 2024 | ₹1,204.37 |
+| 13 Nov 2024 | ₹1,172.43 |
+| 03 Dec 2024 | ₹1,217.77 |
+| 22 Dec 2024 | ₹1,180.47 |
+| 08 Jan 2025 | ₹1,170.39 |
+| 27 Jan 2025 | ₹1,135.50 |
+| 12 Feb 2025 | ₹1,141.26 |
+| 04 Mar 2025 | ₹1,108.37 |
+| 23 Mar 2025 | ₹1,173.81 |
+| 10 Apr 2025 | ₹1,130.70 |
+| 01 May 2025 | ₹1,196.67 |
+| 20 May 2025 | ₹1,215.73 |
+| 05 Jun 2025 | ₹1,221.77 |
+| 24 Jun 2025 | ₹1,232.15 |
+| 10 Jul 2025 | ₹1,231.99 |
+| 29 Jul 2025 | ₹1,228.61 |
+| 17 Aug 2025 | ₹1,227.63 |
+| 04 Sep 2025 | ₹1,221.90 |
+| 22 Sep 2025 | ₹1,245.98 |
+| 12 Oct 2025 | ₹1,240.66 |
+| 30 Oct 2025 | ₹1,256.68 |
+| 19 Nov 2025 | ₹1,277.35 |
+| 08 Dec 2025 | ₹1,264.46 |
+| 25 Dec 2025 | ₹1,274.41 |
+| 13 Jan 2026 | ₹1,272.84 |
+| 02 Feb 2026 | ₹1,268.66 |
+| 19 Feb 2026 | ₹1,266.82 |
+| 10 Mar 2026 | ₹1,189.55 |
+| 30 Mar 2026 | ₹1,107.29 |
+| 19 Apr 2026 | ₹1,207.10 |
+| 07 May 2026 | ₹1,205.37 |
+| 25 May 2026 | ₹1,188.50 |
+| 14 Jun 2026 | ₹1,198.74 |
+| 01 Jul 2026 | ₹1,228.50 |
+| 20 Jul 2026 | ₹1,238.22 |
+| 05 Aug 2026 | ₹1,260.09 |
+| 24 Aug 2026 | ₹1,249.86 |
+| 09 Sep 2026 | ₹1,210.98 |
+| 29 Sep 2026 | ₹1,161.71 |
+| 18 Oct 2026 | ₹1,158.61 |
+| 05 Nov 2026 | ₹1,257.17 |
 
 | ICICI Bank Ltd | Financial | Equity | 9.79% |
 | --- | --- | --- | --- |
@@ -212,10 +212,10 @@ Net Payables
 
 ## Sector Allocation
 
-| Fund returns | +9.6% | +10.1% | +12.6% | +12.8% |
+| Fund returns | +10.4% | +10.6% | +12.8% | +12.9% |
 | --- | --- | --- | --- | --- |
-| Category average (Equity Large Cap) | +11.5% | +9.1% | +12.6% | +12.8% |
-| Rank (Equity Large Cap) | 50 | 20 | 13 | -- |
+| Category average (Equity Large Cap) | +12.3% | +9.5% | +12.9% | +12.9% |
+| Rank (Equity Large Cap) | 50 | 20 | 12 | -- |
 
 Fund benchmark
 
@@ -278,12 +278,12 @@ and take a few minutes to complete
 Once you are done with that, you can start investing in HDFC Large Cap Fund Direct Growth as SIP or lumpsum as per your
 investment objective and risk tolerance
 
-The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 12.75% since its inception.
+The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 12.93% since its inception.
 
 The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual
-charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 0.83% as of 06 Nov 2026...
+charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.01% as of 07 Nov 2026...
 
-The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹37,293.95Cr as of 06 Nov 2026.
+The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹37,293.95Cr as of 07 Nov 2026.
 
 If you want to sell your HDFC Large Cap Fund Direct Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -292,7 +292,7 @@ desired amount or if you wish to redeem the entire holding amount then select th
 You can select either SIP or Lumpsum investment of HDFC Large Cap Fund Direct Growth based on
 your investment objective and risk tolerance.
 
-The NAV of HDFC Large Cap Fund Direct Growth is ₹1,233.61 as of 05 Nov 2026.
+The NAV of HDFC Large Cap Fund Direct Growth is ₹1,257.17 as of 06 Nov 2026.
 
 The PE ratio ratio of HDFC Large Cap Fund Direct Growth is determined by dividing the market price by
 its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value
