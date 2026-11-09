@@ -1,41 +1,41 @@
 [
   {
     "chunk_id": "hdfc-silver-etf-fof-chunk-01",
-    "text": "General: | Date | NAV |\n| --- | --- |\n| 07 Nov 2023 | ₹12.14 |\n| 28 Nov 2023 | ₹12.91 |\n| 14 Dec 2023 | ₹12.73 |\n| 03 Jan 2024 | ₹12.36 |\n| 22 Jan 2024 | ₹12.12 |\n| 11 Feb 2024 | ₹12.18 |\n| 27 Feb 2024 | ₹11.89 |\n| 18 Mar 2024 | ₹12.62 |\n| 04 Apr 2024 | ₹13.51 |\n| 25 Apr 2024 | ₹13.96 |\n| 14 May 2024 | ₹14.49 |\n| 03 Jun 2024 | ₹15.22 |\n| 20 Jun 2024 | ₹15.53 |\n| 09 Jul 2024 | ₹15.67 |\n| 28 Jul 2024 | ₹14.14 |\n| 15 Aug 2024 | ₹14.03 |\n| 02 Sep 2024 | ₹14.08 |\n| 19 Sep 2024 | ₹15.10 |\n| 08 Oct 2024 | ₹15.09 |\n| 27 Oct 2024 | ₹16.32 |\n| 13 Nov 2024 | ₹14.80 |\n| 04 Dec 2024 | ₹15.44 |",
+    "text": "General: | Date | NAV |\n| --- | --- |\n| 08 Nov 2023 | ₹12.11 |\n| 28 Nov 2023 | ₹12.91 |\n| 17 Dec 2023 | ₹12.73 |\n| 03 Jan 2024 | ₹12.36 |\n| 23 Jan 2024 | ₹12.24 |\n| 11 Feb 2024 | ₹12.18 |\n| 28 Feb 2024 | ₹11.94 |\n| 18 Mar 2024 | ₹12.62 |\n| 07 Apr 2024 | ₹14.03 |\n| 25 Apr 2024 | ₹13.96 |\n| 15 May 2024 | ₹14.72 |\n| 03 Jun 2024 | ₹15.22 |\n| 23 Jun 2024 | ₹15.27 |\n| 09 Jul 2024 | ₹15.67 |\n| 29 Jul 2024 | ₹14.00 |\n| 15 Aug 2024 | ₹14.03 |\n| 03 Sep 2024 | ₹13.92 |\n| 19 Sep 2024 | ₹15.10 |\n| 09 Oct 2024 | ₹15.07 |\n| 27 Oct 2024 | ₹16.32 |\n| 17 Nov 2024 | ₹15.23 |\n| 04 Dec 2024 | ₹15.44 |",
     "scheme_name": "HDFC Silver ETF FOF",
     "section_title": "General",
     "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-    "last_updated": "2026-11-08",
+    "last_updated": "2026-11-09",
     "token_count": 298,
     "chunk_type": "split_table"
   },
   {
     "chunk_id": "hdfc-silver-etf-fof-chunk-02",
-    "text": "General: | 27 Oct 2024 | ₹16.32 |\n| 13 Nov 2024 | ₹14.80 |\n| 04 Dec 2024 | ₹15.44 |\n| 22 Dec 2024 | ₹14.92 |\n| 09 Jan 2025 | ₹15.27 |\n| 27 Jan 2025 | ₹15.21 |\n| 13 Feb 2025 | ₹16.49 |\n| 04 Mar 2025 | ₹16.31 |\n| 24 Mar 2025 | ₹16.53 |\n| 10 Apr 2025 | ₹15.83 |\n| 04 May 2025 | ₹16.00 |\n| 20 May 2025 | ₹16.41 |\n| 08 Jun 2025 | ₹17.99 |\n| 24 Jun 2025 | ₹17.75 |\n| 13 Jul 2025 | ₹19.22 |\n| 29 Jul 2025 | ₹19.18 |\n| 18 Aug 2025 | ₹19.07 |\n| 04 Sep 2025 | ₹20.75 |\n| 23 Sep 2025 | ₹22.66 |\n| 12 Oct 2025 | ₹29.93 |\n| 02 Nov 2025 | ₹24.77 |\n| 19 Nov 2025 | ₹25.72 |\n| 08 Dec 2025 | ₹29.74 |",
+    "text": "General: | 27 Oct 2024 | ₹16.32 |\n| 17 Nov 2024 | ₹15.23 |\n| 04 Dec 2024 | ₹15.44 |\n| 23 Dec 2024 | ₹14.91 |\n| 09 Jan 2025 | ₹15.27 |\n| 28 Jan 2025 | ₹15.36 |\n| 13 Feb 2025 | ₹16.49 |\n| 05 Mar 2025 | ₹16.34 |\n| 24 Mar 2025 | ₹16.53 |\n| 14 Apr 2025 | ₹16.18 |\n| 04 May 2025 | ₹16.00 |\n| 21 May 2025 | ₹16.45 |\n| 08 Jun 2025 | ₹17.99 |\n| 25 Jun 2025 | ₹18.15 |\n| 13 Jul 2025 | ₹19.22 |\n| 30 Jul 2025 | ₹18.62 |\n| 18 Aug 2025 | ₹19.07 |\n| 07 Sep 2025 | ₹21.04 |\n| 23 Sep 2025 | ₹22.66 |\n| 13 Oct 2025 | ₹30.77 |\n| 02 Nov 2025 | ₹24.77 |\n| 20 Nov 2025 | ₹25.13 |\n| 08 Dec 2025 | ₹29.74 |",
     "scheme_name": "HDFC Silver ETF FOF",
     "section_title": "General",
     "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-    "last_updated": "2026-11-08",
+    "last_updated": "2026-11-09",
     "token_count": 301,
     "chunk_type": "split_table"
   },
   {
     "chunk_id": "hdfc-silver-etf-fof-chunk-03",
-    "text": "General: | 02 Nov 2025 | ₹24.77 |\n| 19 Nov 2025 | ₹25.72 |\n| 08 Dec 2025 | ₹29.74 |\n| 25 Dec 2025 | ₹38.19 |\n| 13 Jan 2026 | ₹45.70 |\n| 02 Feb 2026 | ₹42.86 |\n| 19 Feb 2026 | ₹40.91 |\n| 10 Mar 2026 | ₹43.53 |\n| 30 Mar 2026 | ₹37.45 |\n| 19 Apr 2026 | ₹41.04 |\n| 07 May 2026 | ₹41.51 |\n| 25 May 2026 | ₹43.38 |\n| 14 Jun 2026 | ₹41.31 |\n| 01 Jul 2026 | ₹37.42 |\n| 20 Jul 2026 | ₹36.67 |\n| 05 Aug 2026 | ₹37.08 |\n| 24 Aug 2026 | ₹39.49 |\n| 09 Sep 2026 | ₹38.59 |\n| 29 Sep 2026 | ₹36.19 |\n| 18 Oct 2026 | ₹34.04 |\n| 05 Nov 2026 | ₹30.14 |\n\n| HDFC Silver ETF Regular - Growth | Unspecified | Mutual Fund | 100.32% |",
+    "text": "General: | 02 Nov 2025 | ₹24.77 |\n| 20 Nov 2025 | ₹25.13 |\n| 08 Dec 2025 | ₹29.74 |\n| 28 Dec 2025 | ₹38.15 |\n| 13 Jan 2026 | ₹45.70 |\n| 03 Feb 2026 | ₹46.02 |\n| 19 Feb 2026 | ₹40.91 |\n| 11 Mar 2026 | ₹43.83 |\n| 30 Mar 2026 | ₹37.45 |\n| 20 Apr 2026 | ₹41.03 |\n| 07 May 2026 | ₹41.51 |\n| 26 May 2026 | ₹43.16 |\n| 14 Jun 2026 | ₹41.31 |\n| 02 Jul 2026 | ₹38.26 |\n| 20 Jul 2026 | ₹36.67 |\n| 06 Aug 2026 | ₹38.06 |\n| 24 Aug 2026 | ₹39.49 |\n| 10 Sep 2026 | ₹37.37 |\n| 29 Sep 2026 | ₹36.19 |\n| 20 Oct 2026 | ₹33.65 |\n| 05 Nov 2026 | ₹30.14 |\n\n| HDFC Silver ETF Regular - Growth | Unspecified | Mutual Fund | 100.32% |",
     "scheme_name": "HDFC Silver ETF FOF",
     "section_title": "General",
     "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-    "last_updated": "2026-11-08",
+    "last_updated": "2026-11-09",
     "token_count": 296,
     "chunk_type": "split_table"
   },
   {
     "chunk_id": "hdfc-silver-etf-fof-chunk-04",
-    "text": "General: | 18 Oct 2026 | ₹34.04 |\n| 05 Nov 2026 | ₹30.14 |\n\n| HDFC Silver ETF Regular - Growth | Unspecified | Mutual Fund | 100.32% |\n| --- | --- | --- | --- |\n| Repo | Unspecified | Repo | 0.33% |\n| Net Payables | Unspecified | Net Payables | -0.65% |\n\nHDFC Silver ETF Regular - Growth\n\nRepo\n\nNet Payables",
+    "text": "General: | 20 Oct 2026 | ₹33.65 |\n| 05 Nov 2026 | ₹30.14 |\n\n| HDFC Silver ETF Regular - Growth | Unspecified | Mutual Fund | 100.32% |\n| --- | --- | --- | --- |\n| Repo | Unspecified | Repo | 0.33% |\n| Net Payables | Unspecified | Net Payables | -0.65% |\n\nHDFC Silver ETF Regular - Growth\n\nRepo\n\nNet Payables",
     "scheme_name": "HDFC Silver ETF FOF",
     "section_title": "General",
     "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-    "last_updated": "2026-11-08",
+    "last_updated": "2026-11-09",
     "token_count": 104,
     "chunk_type": "split_table"
   },
@@ -45,17 +45,17 @@
     "scheme_name": "HDFC Silver ETF FOF",
     "section_title": "Sector Allocation",
     "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-    "last_updated": "2026-11-08",
+    "last_updated": "2026-11-09",
     "token_count": 323,
     "chunk_type": "split_table"
   },
   {
     "chunk_id": "hdfc-silver-etf-fof-chunk-06",
-    "text": "Sector Allocation: \nLog on to your Groww account\n\nSearch for HDFC Silver ETF FoF Direct Growth from the search box\n\nIn order to invest, you will have to complete all the KYC formalities which are completely online and paperless\nand take a few minutes to complete\n\nOnce you are done with that, you can start investing in HDFC Silver ETF FoF Direct Growth as SIP or lumpsum as per your\ninvestment objective and risk tolerance\n\nThe HDFC Silver ETF FoF Direct Growth has been there from 28 Oct 2022 and the average annual returns provided by this fund is 31.78% since its inception.\n\nThe term Expense Ratio used for HDFC Silver ETF FoF Direct Growth or any other mutual fund is the annual\ncharges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.18% as of 08 Nov 2026...\n\nThe AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹4,497.00Cr as of 08 Nov 2026.\n\nIf you want to sell your HDFC Silver ETF FoF Direct Growth holdings, go to your holding on the app or\nweb and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your\ndesired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.\n",
+    "text": "Sector Allocation: \nLog on to your Groww account\n\nSearch for HDFC Silver ETF FoF Direct Growth from the search box\n\nIn order to invest, you will have to complete all the KYC formalities which are completely online and paperless\nand take a few minutes to complete\n\nOnce you are done with that, you can start investing in HDFC Silver ETF FoF Direct Growth as SIP or lumpsum as per your\ninvestment objective and risk tolerance\n\nThe HDFC Silver ETF FoF Direct Growth has been there from 28 Oct 2022 and the average annual returns provided by this fund is 31.78% since its inception.\n\nThe term Expense Ratio used for HDFC Silver ETF FoF Direct Growth or any other mutual fund is the annual\ncharges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.18% as of 09 Nov 2026...\n\nThe AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹4,497.00Cr as of 09 Nov 2026.\n\nIf you want to sell your HDFC Silver ETF FoF Direct Growth holdings, go to your holding on the app or\nweb and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your\ndesired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.\n",
     "scheme_name": "HDFC Silver ETF FOF",
     "section_title": "Sector Allocation",
     "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-    "last_updated": "2026-11-08",
+    "last_updated": "2026-11-09",
     "token_count": 307,
     "chunk_type": "split_table"
   },
@@ -65,7 +65,7 @@
     "scheme_name": "HDFC Silver ETF FOF",
     "section_title": "Sector Allocation",
     "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-    "last_updated": "2026-11-08",
+    "last_updated": "2026-11-09",
     "token_count": 156,
     "chunk_type": "split_table"
   }
