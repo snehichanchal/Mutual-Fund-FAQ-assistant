@@ -2,66 +2,66 @@
 
 | Date | NAV |
 | --- | --- |
-| 08 Nov 2023 | ₹927.77 |
-| 28 Nov 2023 | ₹963.90 |
-| 17 Dec 2023 | ₹1,033.07 |
-| 03 Jan 2024 | ₹1,055.71 |
-| 23 Jan 2024 | ₹1,053.87 |
-| 11 Feb 2024 | ₹1,058.55 |
-| 28 Feb 2024 | ₹1,083.27 |
-| 18 Mar 2024 | ₹1,072.38 |
-| 07 Apr 2024 | ₹1,120.41 |
-| 25 Apr 2024 | ₹1,112.01 |
-| 15 May 2024 | ₹1,116.63 |
-| 03 Jun 2024 | ₹1,085.82 |
-| 23 Jun 2024 | ₹1,169.10 |
-| 09 Jul 2024 | ₹1,211.57 |
-| 29 Jul 2024 | ₹1,238.82 |
-| 15 Aug 2024 | ₹1,230.73 |
-| 03 Sep 2024 | ₹1,258.77 |
-| 19 Sep 2024 | ₹1,294.67 |
-| 09 Oct 2024 | ₹1,249.13 |
-| 27 Oct 2024 | ₹1,209.08 |
-| 17 Nov 2024 | ₹1,168.69 |
-| 04 Dec 2024 | ₹1,228.75 |
-| 23 Dec 2024 | ₹1,180.44 |
-| 09 Jan 2025 | ₹1,160.51 |
-| 28 Jan 2025 | ₹1,147.34 |
-| 13 Feb 2025 | ₹1,133.58 |
-| 05 Mar 2025 | ₹1,118.36 |
-| 24 Mar 2025 | ₹1,171.43 |
-| 14 Apr 2025 | ₹1,156.74 |
-| 04 May 2025 | ₹1,200.05 |
-| 21 May 2025 | ₹1,206.59 |
-| 08 Jun 2025 | ₹1,227.77 |
-| 25 Jun 2025 | ₹1,245.81 |
-| 13 Jul 2025 | ₹1,233.17 |
-| 30 Jul 2025 | ₹1,222.70 |
-| 18 Aug 2025 | ₹1,235.04 |
-| 07 Sep 2025 | ₹1,226.08 |
-| 23 Sep 2025 | ₹1,238.50 |
-| 13 Oct 2025 | ₹1,237.32 |
-| 02 Nov 2025 | ₹1,262.31 |
-| 20 Nov 2025 | ₹1,271.14 |
-| 08 Dec 2025 | ₹1,264.46 |
-| 28 Dec 2025 | ₹1,270.02 |
-| 13 Jan 2026 | ₹1,272.84 |
-| 03 Feb 2026 | ₹1,274.20 |
-| 19 Feb 2026 | ₹1,266.82 |
-| 11 Mar 2026 | ₹1,177.04 |
-| 30 Mar 2026 | ₹1,107.29 |
-| 20 Apr 2026 | ₹1,218.19 |
-| 07 May 2026 | ₹1,205.37 |
-| 26 May 2026 | ₹1,193.44 |
-| 14 Jun 2026 | ₹1,198.74 |
-| 02 Jul 2026 | ₹1,234.16 |
-| 20 Jul 2026 | ₹1,238.22 |
-| 06 Aug 2026 | ₹1,251.73 |
-| 24 Aug 2026 | ₹1,249.86 |
-| 10 Sep 2026 | ₹1,208.62 |
-| 29 Sep 2026 | ₹1,161.71 |
-| 20 Oct 2026 | ₹1,150.29 |
-| 05 Nov 2026 | ₹1,257.17 |
+| 09 Nov 2023 | ₹930.68 |
+| 29 Nov 2023 | ₹967.75 |
+| 18 Dec 2023 | ₹1,036.61 |
+| 04 Jan 2024 | ₹1,056.92 |
+| 24 Jan 2024 | ₹1,051.11 |
+| 12 Feb 2024 | ₹1,068.56 |
+| 29 Feb 2024 | ₹1,101.64 |
+| 19 Mar 2024 | ₹1,072.29 |
+| 08 Apr 2024 | ₹1,118.76 |
+| 28 Apr 2024 | ₹1,124.53 |
+| 16 May 2024 | ₹1,120.35 |
+| 04 Jun 2024 | ₹1,122.26 |
+| 24 Jun 2024 | ₹1,177.09 |
+| 10 Jul 2024 | ₹1,211.47 |
+| 30 Jul 2024 | ₹1,245.66 |
+| 18 Aug 2024 | ₹1,230.31 |
+| 04 Sep 2024 | ₹1,257.63 |
+| 22 Sep 2024 | ₹1,302.60 |
+| 10 Oct 2024 | ₹1,248.36 |
+| 28 Oct 2024 | ₹1,215.42 |
+| 18 Nov 2024 | ₹1,172.11 |
+| 05 Dec 2024 | ₹1,228.85 |
+| 25 Dec 2024 | ₹1,181.00 |
+| 12 Jan 2025 | ₹1,141.96 |
+| 29 Jan 2025 | ₹1,148.86 |
+| 16 Feb 2025 | ₹1,134.31 |
+| 06 Mar 2025 | ₹1,116.52 |
+| 25 Mar 2025 | ₹1,162.04 |
+| 15 Apr 2025 | ₹1,162.66 |
+| 05 May 2025 | ₹1,193.94 |
+| 22 May 2025 | ₹1,215.80 |
+| 09 Jun 2025 | ₹1,228.57 |
+| 26 Jun 2025 | ₹1,253.82 |
+| 14 Jul 2025 | ₹1,238.85 |
+| 31 Jul 2025 | ₹1,213.29 |
+| 19 Aug 2025 | ₹1,237.77 |
+| 08 Sep 2025 | ₹1,228.90 |
+| 24 Sep 2025 | ₹1,229.18 |
+| 14 Oct 2025 | ₹1,243.73 |
+| 03 Nov 2025 | ₹1,256.12 |
+| 23 Nov 2025 | ₹1,266.72 |
+| 09 Dec 2025 | ₹1,260.89 |
+| 29 Dec 2025 | ₹1,269.43 |
+| 15 Jan 2026 | ₹1,273.05 |
+| 04 Feb 2026 | ₹1,267.07 |
+| 22 Feb 2026 | ₹1,276.67 |
+| 12 Mar 2026 | ₹1,154.73 |
+| 31 Mar 2026 | ₹1,121.23 |
+| 21 Apr 2026 | ₹1,212.67 |
+| 10 May 2026 | ₹1,185.39 |
+| 28 May 2026 | ₹1,175.10 |
+| 15 Jun 2026 | ₹1,203.64 |
+| 05 Jul 2026 | ₹1,241.23 |
+| 21 Jul 2026 | ₹1,226.74 |
+| 09 Aug 2026 | ₹1,253.85 |
+| 25 Aug 2026 | ₹1,247.08 |
+| 14 Sep 2026 | ₹1,190.12 |
+| 30 Sep 2026 | ₹1,151.92 |
+| 21 Oct 2026 | ₹1,145.05 |
+| 08 Nov 2026 | ₹1,260.67 |
 
 | ICICI Bank Ltd | Financial | Equity | 9.79% |
 | --- | --- | --- | --- |
@@ -212,10 +212,10 @@ Net Payables
 
 ## Sector Allocation
 
-| Fund returns | +10.8% | +11.0% | +13.1% | +13.1% |
+| Fund returns | +10.8% | +10.7% | +13.0% | +13.1% |
 | --- | --- | --- | --- | --- |
 | Category average (Equity Large Cap) | +12.5% | +9.8% | +13.0% | +13.0% |
-| Rank (Equity Large Cap) | 50 | 18 | 12 | -- |
+| Rank (Equity Large Cap) | 49 | 19 | 12 | -- |
 
 Fund benchmark
 
@@ -278,12 +278,12 @@ and take a few minutes to complete
 Once you are done with that, you can start investing in HDFC Large Cap Fund Direct Growth as SIP or lumpsum as per your
 investment objective and risk tolerance
 
-The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.08% since its inception.
+The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.09% since its inception.
 
 The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual
-charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 0.83% as of 09 Nov 2026...
+charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 0.82% as of 10 Nov 2026...
 
-The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹37,293.95Cr as of 09 Nov 2026.
+The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹37,293.95Cr as of 10 Nov 2026.
 
 If you want to sell your HDFC Large Cap Fund Direct Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -292,7 +292,7 @@ desired amount or if you wish to redeem the entire holding amount then select th
 You can select either SIP or Lumpsum investment of HDFC Large Cap Fund Direct Growth based on
 your investment objective and risk tolerance.
 
-The NAV of HDFC Large Cap Fund Direct Growth is ₹1,257.17 as of 06 Nov 2026.
+The NAV of HDFC Large Cap Fund Direct Growth is ₹1,260.67 as of 09 Nov 2026.
 
 The PE ratio ratio of HDFC Large Cap Fund Direct Growth is determined by dividing the market price by
 its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value
