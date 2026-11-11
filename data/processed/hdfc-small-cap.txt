@@ -2,46 +2,46 @@
 
 | Date | NAV |
 | --- | --- |
-| 09 Nov 2023 | ₹118.21 |
-| 29 Nov 2023 | ₹124.18 |
-| 18 Dec 2023 | ₹129.12 |
-| 04 Jan 2024 | ₹131.64 |
-| 24 Jan 2024 | ₹132.42 |
-| 12 Feb 2024 | ₹133.60 |
-| 29 Feb 2024 | ₹135.88 |
-| 19 Mar 2024 | ₹128.25 |
-| 08 Apr 2024 | ₹139.01 |
-| 28 Apr 2024 | ₹141.59 |
-| 16 May 2024 | ₹140.86 |
-| 04 Jun 2024 | ₹136.92 |
-| 24 Jun 2024 | ₹149.39 |
-| 10 Jul 2024 | ₹154.46 |
-| 30 Jul 2024 | ₹157.17 |
-| 18 Aug 2024 | ₹156.94 |
-| 04 Sep 2024 | ₹162.17 |
-| 22 Sep 2024 | ₹160.73 |
-| 10 Oct 2024 | ₹159.65 |
-| 28 Oct 2024 | ₹153.40 |
+| 12 Nov 2023 | ₹119.44 |
+| 30 Nov 2023 | ₹124.74 |
+| 19 Dec 2023 | ₹125.94 |
+| 07 Jan 2024 | ₹130.83 |
+| 28 Jan 2024 | ₹133.89 |
+| 13 Feb 2024 | ₹134.46 |
+| 03 Mar 2024 | ₹136.17 |
+| 20 Mar 2024 | ₹130.39 |
+| 09 Apr 2024 | ₹139.37 |
+| 29 Apr 2024 | ₹141.73 |
+| 20 May 2024 | ₹141.34 |
+| 05 Jun 2024 | ₹140.42 |
+| 25 Jun 2024 | ₹149.87 |
+| 11 Jul 2024 | ₹155.14 |
+| 31 Jul 2024 | ₹157.15 |
+| 19 Aug 2024 | ₹157.31 |
+| 05 Sep 2024 | ₹160.48 |
+| 23 Sep 2024 | ₹161.48 |
+| 13 Oct 2024 | ₹159.65 |
+| 29 Oct 2024 | ₹155.24 |
 | 18 Nov 2024 | ₹151.61 |
-| 05 Dec 2024 | ₹163.38 |
+| 08 Dec 2024 | ₹164.30 |
 | 25 Dec 2024 | ₹156.64 |
-| 12 Jan 2025 | ₹146.67 |
+| 13 Jan 2025 | ₹148.77 |
 | 29 Jan 2025 | ₹142.61 |
-| 16 Feb 2025 | ₹134.10 |
+| 17 Feb 2025 | ₹132.73 |
 | 06 Mar 2025 | ₹134.78 |
-| 25 Mar 2025 | ₹135.75 |
+| 26 Mar 2025 | ₹137.92 |
 | 15 Apr 2025 | ₹138.79 |
-| 05 May 2025 | ₹137.89 |
+| 06 May 2025 | ₹138.97 |
 | 22 May 2025 | ₹151.91 |
-| 09 Jun 2025 | ₹158.08 |
+| 10 Jun 2025 | ₹158.07 |
 | 26 Jun 2025 | ₹158.73 |
-| 14 Jul 2025 | ₹163.12 |
+| 15 Jul 2025 | ₹163.53 |
 | 31 Jul 2025 | ₹158.81 |
-| 19 Aug 2025 | ₹162.36 |
+| 20 Aug 2025 | ₹162.42 |
 | 08 Sep 2025 | ₹161.68 |
-| 24 Sep 2025 | ₹162.63 |
+| 25 Sep 2025 | ₹159.96 |
 | 14 Oct 2025 | ₹161.01 |
-| 03 Nov 2025 | ₹164.37 |
+| 05 Nov 2025 | ₹162.30 |
 | 23 Nov 2025 | ₹159.79 |
 | 09 Dec 2025 | ₹156.47 |
 | 29 Dec 2025 | ₹155.99 |
@@ -330,7 +330,7 @@ Net Payables
 
 | Fund returns | +9.3% | +12.9% | +17.3% | +17.8% |
 | --- | --- | --- | --- | --- |
-| Category average (Equity Small Cap) | +14.2% | +14.8% | +17.4% | +19.8% |
+| Category average (Equity Small Cap) | +14.3% | +14.4% | +17.6% | +19.9% |
 | Rank (Equity Small Cap) | 35 | 16 | 6 | -- |
 
 Fund benchmark
@@ -397,9 +397,9 @@ investment objective and risk tolerance
 The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 17.77% since its inception.
 
 The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual
-charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.64% as of 10 Nov 2026...
+charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.64% as of 11 Nov 2026...
 
-The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹40,800.81Cr as of 10 Nov 2026.
+The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹40,800.81Cr as of 11 Nov 2026.
 
 If you want to sell your HDFC Small Cap Fund Direct Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your

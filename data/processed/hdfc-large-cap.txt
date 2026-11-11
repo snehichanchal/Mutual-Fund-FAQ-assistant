@@ -2,46 +2,46 @@
 
 | Date | NAV |
 | --- | --- |
-| 09 Nov 2023 | ₹930.68 |
-| 29 Nov 2023 | ₹967.75 |
-| 18 Dec 2023 | ₹1,036.61 |
-| 04 Jan 2024 | ₹1,056.92 |
-| 24 Jan 2024 | ₹1,051.11 |
-| 12 Feb 2024 | ₹1,068.56 |
-| 29 Feb 2024 | ₹1,101.64 |
-| 19 Mar 2024 | ₹1,072.29 |
-| 08 Apr 2024 | ₹1,118.76 |
-| 28 Apr 2024 | ₹1,124.53 |
-| 16 May 2024 | ₹1,120.35 |
-| 04 Jun 2024 | ₹1,122.26 |
-| 24 Jun 2024 | ₹1,177.09 |
-| 10 Jul 2024 | ₹1,211.47 |
-| 30 Jul 2024 | ₹1,245.66 |
-| 18 Aug 2024 | ₹1,230.31 |
-| 04 Sep 2024 | ₹1,257.63 |
-| 22 Sep 2024 | ₹1,302.60 |
-| 10 Oct 2024 | ₹1,248.36 |
-| 28 Oct 2024 | ₹1,215.42 |
+| 12 Nov 2023 | ₹935.49 |
+| 30 Nov 2023 | ₹978.73 |
+| 19 Dec 2023 | ₹1,018.49 |
+| 07 Jan 2024 | ₹1,047.65 |
+| 28 Jan 2024 | ₹1,070.85 |
+| 13 Feb 2024 | ₹1,074.98 |
+| 03 Mar 2024 | ₹1,107.17 |
+| 20 Mar 2024 | ₹1,084.77 |
+| 09 Apr 2024 | ₹1,125.60 |
+| 29 Apr 2024 | ₹1,122.74 |
+| 20 May 2024 | ₹1,125.72 |
+| 05 Jun 2024 | ₹1,134.58 |
+| 25 Jun 2024 | ₹1,184.76 |
+| 11 Jul 2024 | ₹1,216.52 |
+| 31 Jul 2024 | ₹1,248.95 |
+| 19 Aug 2024 | ₹1,236.09 |
+| 05 Sep 2024 | ₹1,241.13 |
+| 23 Sep 2024 | ₹1,302.14 |
+| 13 Oct 2024 | ₹1,257.22 |
+| 29 Oct 2024 | ₹1,210.19 |
 | 18 Nov 2024 | ₹1,172.11 |
-| 05 Dec 2024 | ₹1,228.85 |
+| 08 Dec 2024 | ₹1,224.89 |
 | 25 Dec 2024 | ₹1,181.00 |
-| 12 Jan 2025 | ₹1,141.96 |
+| 13 Jan 2025 | ₹1,148.89 |
 | 29 Jan 2025 | ₹1,148.86 |
-| 16 Feb 2025 | ₹1,134.31 |
+| 17 Feb 2025 | ₹1,133.81 |
 | 06 Mar 2025 | ₹1,116.52 |
-| 25 Mar 2025 | ₹1,162.04 |
+| 26 Mar 2025 | ₹1,165.37 |
 | 15 Apr 2025 | ₹1,162.66 |
-| 05 May 2025 | ₹1,193.94 |
+| 06 May 2025 | ₹1,198.24 |
 | 22 May 2025 | ₹1,215.80 |
-| 09 Jun 2025 | ₹1,228.57 |
+| 10 Jun 2025 | ₹1,229.72 |
 | 26 Jun 2025 | ₹1,253.82 |
-| 14 Jul 2025 | ₹1,238.85 |
+| 15 Jul 2025 | ₹1,238.74 |
 | 31 Jul 2025 | ₹1,213.29 |
-| 19 Aug 2025 | ₹1,237.77 |
+| 20 Aug 2025 | ₹1,237.87 |
 | 08 Sep 2025 | ₹1,228.90 |
-| 24 Sep 2025 | ₹1,229.18 |
+| 25 Sep 2025 | ₹1,215.48 |
 | 14 Oct 2025 | ₹1,243.73 |
-| 03 Nov 2025 | ₹1,256.12 |
+| 05 Nov 2025 | ₹1,247.09 |
 | 23 Nov 2025 | ₹1,266.72 |
 | 09 Dec 2025 | ₹1,260.89 |
 | 29 Dec 2025 | ₹1,269.43 |
@@ -214,8 +214,8 @@ Net Payables
 
 | Fund returns | +10.8% | +10.7% | +13.0% | +13.1% |
 | --- | --- | --- | --- | --- |
-| Category average (Equity Large Cap) | +12.5% | +9.8% | +13.0% | +13.0% |
-| Rank (Equity Large Cap) | 49 | 19 | 12 | -- |
+| Category average (Equity Large Cap) | +12.5% | +9.6% | +13.1% | +13.1% |
+| Rank (Equity Large Cap) | 50 | 19 | 12 | -- |
 
 Fund benchmark
 
@@ -281,9 +281,9 @@ investment objective and risk tolerance
 The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.09% since its inception.
 
 The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual
-charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 0.82% as of 10 Nov 2026...
+charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 0.82% as of 11 Nov 2026...
 
-The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹37,293.95Cr as of 10 Nov 2026.
+The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹37,293.95Cr as of 11 Nov 2026.
 
 If you want to sell your HDFC Large Cap Fund Direct Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
