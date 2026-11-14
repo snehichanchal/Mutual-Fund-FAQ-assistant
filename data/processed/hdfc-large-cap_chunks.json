@@ -1,41 +1,41 @@
 [
   {
     "chunk_id": "hdfc-large-cap-chunk-01",
-    "text": "General: | Date | NAV |\n| --- | --- |\n| 12 Nov 2023 | ₹935.49 |\n| 03 Dec 2023 | ₹998.32 |\n| 19 Dec 2023 | ₹1,018.49 |\n| 08 Jan 2024 | ₹1,049.55 |\n| 28 Jan 2024 | ₹1,070.85 |\n| 14 Feb 2024 | ₹1,078.35 |\n| 03 Mar 2024 | ₹1,107.17 |\n| 21 Mar 2024 | ₹1,090.01 |\n| 09 Apr 2024 | ₹1,125.60 |\n| 01 May 2024 | ₹1,125.74 |\n| 20 May 2024 | ₹1,125.72 |\n| 06 Jun 2024 | ₹1,155.05 |\n| 25 Jun 2024 | ₹1,184.76 |\n| 14 Jul 2024 | ₹1,221.92 |\n| 31 Jul 2024 | ₹1,248.95 |\n| 20 Aug 2024 | ₹1,239.96 |\n| 05 Sep 2024 | ₹1,241.13 |\n| 24 Sep 2024 | ₹1,303.80 |\n| 13 Oct 2024 | ₹1,257.22 |",
+    "text": "General: | Date | NAV |\n| --- | --- |\n| 14 Nov 2023 | ₹945.38 |\n| 04 Dec 2023 | ₹1,005.58 |\n| 20 Dec 2023 | ₹1,024.99 |\n| 09 Jan 2024 | ₹1,051.52 |\n| 29 Jan 2024 | ₹1,059.62 |\n| 15 Feb 2024 | ₹1,084.75 |\n| 04 Mar 2024 | ₹1,108.24 |\n| 25 Mar 2024 | ₹1,088.58 |\n| 11 Apr 2024 | ₹1,116.36 |\n| 02 May 2024 | ₹1,119.38 |\n| 21 May 2024 | ₹1,130.38 |\n| 09 Jun 2024 | ₹1,155.36 |\n| 26 Jun 2024 | ₹1,192.37 |\n| 15 Jul 2024 | ₹1,222.25 |\n| 01 Aug 2024 | ₹1,235.51 |\n| 21 Aug 2024 | ₹1,241.29 |\n| 08 Sep 2024 | ₹1,245.81 |\n| 25 Sep 2024 | ₹1,309.43 |\n| 14 Oct 2024 | ₹1,256.87 |",
     "scheme_name": "HDFC Large Cap Fund",
     "section_title": "General",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-    "last_updated": "2026-11-13",
-    "token_count": 293,
+    "last_updated": "2026-11-14",
+    "token_count": 295,
     "chunk_type": "split_table"
   },
   {
     "chunk_id": "hdfc-large-cap-chunk-02",
-    "text": "General: | 05 Sep 2024 | ₹1,241.13 |\n| 24 Sep 2024 | ₹1,303.80 |\n| 13 Oct 2024 | ₹1,257.22 |\n| 30 Oct 2024 | ₹1,207.17 |\n| 20 Nov 2024 | ₹1,165.01 |\n| 09 Dec 2024 | ₹1,225.65 |\n| 26 Dec 2024 | ₹1,183.32 |\n| 14 Jan 2025 | ₹1,151.95 |\n| 30 Jan 2025 | ₹1,161.85 |\n| 18 Feb 2025 | ₹1,136.72 |\n| 09 Mar 2025 | ₹1,109.32 |\n| 27 Mar 2025 | ₹1,163.77 |\n| 16 Apr 2025 | ₹1,182.42 |\n| 07 May 2025 | ₹1,191.02 |\n| 25 May 2025 | ₹1,220.80 |\n| 11 Jun 2025 | ₹1,216.97 |\n| 29 Jun 2025 | ₹1,247.85 |\n| 16 Jul 2025 | ₹1,235.90 |\n| 03 Aug 2025 | ₹1,219.50 |\n| 21 Aug 2025 | ₹1,230.22 |",
+    "text": "General: | 08 Sep 2024 | ₹1,245.81 |\n| 25 Sep 2024 | ₹1,309.43 |\n| 14 Oct 2024 | ₹1,256.87 |\n| 03 Nov 2024 | ₹1,195.86 |\n| 21 Nov 2024 | ₹1,189.36 |\n| 10 Dec 2024 | ₹1,225.69 |\n| 29 Dec 2024 | ₹1,177.10 |\n| 15 Jan 2025 | ₹1,157.79 |\n| 02 Feb 2025 | ₹1,153.63 |\n| 19 Feb 2025 | ₹1,137.34 |\n| 10 Mar 2025 | ₹1,108.83 |\n| 30 Mar 2025 | ₹1,163.68 |\n| 20 Apr 2025 | ₹1,194.94 |\n| 08 May 2025 | ₹1,181.03 |\n| 26 May 2025 | ₹1,212.62 |\n| 12 Jun 2025 | ₹1,207.34 |\n| 30 Jun 2025 | ₹1,246.47 |\n| 17 Jul 2025 | ₹1,229.38 |\n| 04 Aug 2025 | ₹1,217.19 |\n| 24 Aug 2025 | ₹1,233.51 |",
     "scheme_name": "HDFC Large Cap Fund",
     "section_title": "General",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-14",
     "token_count": 302,
     "chunk_type": "split_table"
   },
   {
     "chunk_id": "hdfc-large-cap-chunk-03",
-    "text": "General: | 16 Jul 2025 | ₹1,235.90 |\n| 03 Aug 2025 | ₹1,219.50 |\n| 21 Aug 2025 | ₹1,230.22 |\n| 09 Sep 2025 | ₹1,230.55 |\n| 28 Sep 2025 | ₹1,216.75 |\n| 15 Oct 2025 | ₹1,255.57 |\n| 06 Nov 2025 | ₹1,245.80 |\n| 24 Nov 2025 | ₹1,265.60 |\n| 11 Dec 2025 | ₹1,274.90 |\n| 30 Dec 2025 | ₹1,279.95 |\n| 19 Jan 2026 | ₹1,248.11 |\n| 05 Feb 2026 | ₹1,269.65 |\n| 24 Feb 2026 | ₹1,271.41 |\n| 15 Mar 2026 | ₹1,162.89 |\n| 05 Apr 2026 | ₹1,132.94 |\n| 22 Apr 2026 | ₹1,201.53 |\n| 12 May 2026 | ₹1,161.96 |\n| 31 May 2026 | ₹1,160.64 |\n| 17 Jun 2026 | ₹1,212.71 |\n| 06 Jul 2026 | ₹1,242.74 |",
+    "text": "General: | 17 Jul 2025 | ₹1,229.38 |\n| 04 Aug 2025 | ₹1,217.19 |\n| 24 Aug 2025 | ₹1,233.51 |\n| 10 Sep 2025 | ₹1,231.31 |\n| 29 Sep 2025 | ₹1,216.06 |\n| 16 Oct 2025 | ₹1,261.09 |\n| 09 Nov 2025 | ₹1,251.31 |\n| 25 Nov 2025 | ₹1,279.84 |\n| 14 Dec 2025 | ₹1,273.53 |\n| 31 Dec 2025 | ₹1,283.70 |\n| 20 Jan 2026 | ₹1,243.95 |\n| 08 Feb 2026 | ₹1,279.20 |\n| 25 Feb 2026 | ₹1,274.86 |\n| 16 Mar 2026 | ₹1,171.06 |\n| 06 Apr 2026 | ₹1,139.39 |\n| 23 Apr 2026 | ₹1,189.75 |\n| 13 May 2026 | ₹1,176.10 |\n| 01 Jun 2026 | ₹1,163.04 |\n| 18 Jun 2026 | ₹1,210.15 |\n| 07 Jul 2026 | ₹1,218.47 |",
     "scheme_name": "HDFC Large Cap Fund",
     "section_title": "General",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-14",
     "token_count": 302,
     "chunk_type": "split_table"
   },
   {
     "chunk_id": "hdfc-large-cap-chunk-04",
-    "text": "General: | 31 May 2026 | ₹1,160.64 |\n| 17 Jun 2026 | ₹1,212.71 |\n| 06 Jul 2026 | ₹1,242.74 |\n| 23 Jul 2026 | ₹1,215.98 |\n| 10 Aug 2026 | ₹1,249.68 |\n| 27 Aug 2026 | ₹1,245.29 |\n| 15 Sep 2026 | ₹1,192.40 |\n| 05 Oct 2026 | ₹1,168.62 |\n| 22 Oct 2026 | ₹1,133.76 |\n| 11 Nov 2026 | ₹1,274.09 |\n\n| ICICI Bank Ltd | Financial | Equity | 10.30% |\n| --- | --- | --- | --- |\n| Bharti Airtel Ltd | Technology | Equity | 7.23% |\n| HDFC Bank Ltd | Financial | Equity | 7.17% |\n| Kotak Mahindra Bank Ltd | Financial | Equity | 6.70% |\n| Titan Company Ltd | Consumer Discretionary | Equity | 4.88% |\n| Torrent Pharmaceuticals Ltd | Healthcare | Equity | 3.92% |\n| Axis Bank Ltd | Financial | Equity | 3.48% |\n| Repo | Unspecified | Repo | 3.48% |",
+    "text": "General: | 01 Jun 2026 | ₹1,163.04 |\n| 18 Jun 2026 | ₹1,210.15 |\n| 07 Jul 2026 | ₹1,218.47 |\n| 26 Jul 2026 | ₹1,229.57 |\n| 11 Aug 2026 | ₹1,249.48 |\n| 30 Aug 2026 | ₹1,243.32 |\n| 16 Sep 2026 | ₹1,196.68 |\n| 06 Oct 2026 | ₹1,161.31 |\n| 25 Oct 2026 | ₹1,142.41 |\n| 12 Nov 2026 | ₹1,264.56 |\n\n| ICICI Bank Ltd | Financial | Equity | 10.30% |\n| --- | --- | --- | --- |\n| Bharti Airtel Ltd | Technology | Equity | 7.23% |\n| HDFC Bank Ltd | Financial | Equity | 7.17% |\n| Kotak Mahindra Bank Ltd | Financial | Equity | 6.70% |\n| Titan Company Ltd | Consumer Discretionary | Equity | 4.88% |\n| Torrent Pharmaceuticals Ltd | Healthcare | Equity | 3.92% |\n| Axis Bank Ltd | Financial | Equity | 3.48% |\n| Repo | Unspecified | Repo | 3.48% |",
     "scheme_name": "HDFC Large Cap Fund",
     "section_title": "General",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-14",
     "token_count": 292,
     "chunk_type": "split_table"
   },
@@ -45,7 +45,7 @@
     "scheme_name": "HDFC Large Cap Fund",
     "section_title": "General",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-14",
     "token_count": 296,
     "chunk_type": "split_table"
   },
@@ -55,7 +55,7 @@
     "scheme_name": "HDFC Large Cap Fund",
     "section_title": "General",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-14",
     "token_count": 288,
     "chunk_type": "split_table"
   },
@@ -65,7 +65,7 @@
     "scheme_name": "HDFC Large Cap Fund",
     "section_title": "General",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-14",
     "token_count": 291,
     "chunk_type": "split_table"
   },
@@ -75,7 +75,7 @@
     "scheme_name": "HDFC Large Cap Fund",
     "section_title": "General",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-14",
     "token_count": 339,
     "chunk_type": "split_table"
   },
@@ -85,37 +85,37 @@
     "scheme_name": "HDFC Large Cap Fund",
     "section_title": "General",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-14",
     "token_count": 73,
     "chunk_type": "split_table"
   },
   {
     "chunk_id": "hdfc-large-cap-chunk-10",
-    "text": "Sector Allocation: | Fund returns | +11.0% | +11.0% | +13.1% | +13.2% |\n| --- | --- | --- | --- | --- |\n| Category average (Equity Large Cap) | +12.5% | +9.6% | +13.1% | +13.1% |\n| Rank (Equity Large Cap) | 50 | 17 | 15 | -- |\n\nFund benchmark\n\nNIFTY 100 Total Return Index\n\nScheme Information Document(SID)\n\nRank (total assets)\n\n#2 in India\n\nTotal AUM\n\n₹9,33,671.14 Cr\n\nDate of Incorporation\n\n09 Dec 1999\n\nPhone\n\n022 – 66316333\n\nE-mail\n\nWebsite\n\nLaunch Date\n\nAddress\n\n\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020\n\nCustodian\n\nHDFC Bank\n\nRegistrar & Transfer Agent\n\nCams\n\nEmail\n\n7th Floor, Tower II, Rayala Towers, 158, Anna Salai,\n\n| Name |\n| --- |\n| HDFC Large Cap Fund Direct IDCW |\n\nYou can easily invest in HDFC Large Cap Fund Direct Growth in a hassle-free manner on Groww. The\nprocess is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:\n\nLog on to your Groww account\n\nSearch for HDFC Large Cap Fund Direct Growth from the search box\n",
+    "text": "Sector Allocation: | Fund returns | +11.0% | +11.0% | +13.1% | +13.2% |\n| --- | --- | --- | --- | --- |\n| Category average (Equity Large Cap) | +12.8% | +9.8% | +13.4% | +13.1% |\n| Rank (Equity Large Cap) | 50 | 17 | 15 | -- |\n\nFund benchmark\n\nNIFTY 100 Total Return Index\n\nScheme Information Document(SID)\n\nRank (total assets)\n\n#2 in India\n\nTotal AUM\n\n₹9,33,671.14 Cr\n\nDate of Incorporation\n\n09 Dec 1999\n\nPhone\n\n022 – 66316333\n\nE-mail\n\nWebsite\n\nLaunch Date\n\nAddress\n\n\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020\n\nCustodian\n\nHDFC Bank\n\nRegistrar & Transfer Agent\n\nCams\n\nEmail\n\n7th Floor, Tower II, Rayala Towers, 158, Anna Salai,\n\n| Name |\n| --- |\n| HDFC Large Cap Fund Direct IDCW |\n\nYou can easily invest in HDFC Large Cap Fund Direct Growth in a hassle-free manner on Groww. The\nprocess is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:\n\nLog on to your Groww account\n\nSearch for HDFC Large Cap Fund Direct Growth from the search box\n",
     "scheme_name": "HDFC Large Cap Fund",
     "section_title": "Sector Allocation",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-14",
     "token_count": 323,
     "chunk_type": "split_table"
   },
   {
     "chunk_id": "hdfc-large-cap-chunk-11",
-    "text": "Sector Allocation: process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:\n\nLog on to your Groww account\n\nSearch for HDFC Large Cap Fund Direct Growth from the search box\n\nIn order to invest, you will have to complete all the KYC formalities which are completely online and paperless\nand take a few minutes to complete\n\nOnce you are done with that, you can start investing in HDFC Large Cap Fund Direct Growth as SIP or lumpsum as per your\ninvestment objective and risk tolerance\n\nThe HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.17% since its inception.\n\nThe term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual\ncharges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 0.82% as of 13 Nov 2026...\n\nThe AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹37,466.30Cr as of 13 Nov 2026.\n\nIf you want to sell your HDFC Large Cap Fund Direct Growth holdings, go to your holding on the app or\nweb and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your",
+    "text": "Sector Allocation: process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:\n\nLog on to your Groww account\n\nSearch for HDFC Large Cap Fund Direct Growth from the search box\n\nIn order to invest, you will have to complete all the KYC formalities which are completely online and paperless\nand take a few minutes to complete\n\nOnce you are done with that, you can start investing in HDFC Large Cap Fund Direct Growth as SIP or lumpsum as per your\ninvestment objective and risk tolerance\n\nThe HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.17% since its inception.\n\nThe term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual\ncharges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 0.82% as of 14 Nov 2026...\n\nThe AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹37,466.30Cr as of 14 Nov 2026.\n\nIf you want to sell your HDFC Large Cap Fund Direct Growth holdings, go to your holding on the app or\nweb and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your",
     "scheme_name": "HDFC Large Cap Fund",
     "section_title": "Sector Allocation",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-14",
     "token_count": 297,
     "chunk_type": "split_table"
   },
   {
     "chunk_id": "hdfc-large-cap-chunk-12",
-    "text": "Sector Allocation: \nIf you want to sell your HDFC Large Cap Fund Direct Growth holdings, go to your holding on the app or\nweb and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your\ndesired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.\n\nYou can select either SIP or Lumpsum investment of HDFC Large Cap Fund Direct Growth based on\nyour investment objective and risk tolerance.\n\nThe NAV of HDFC Large Cap Fund Direct Growth is ₹1,274.09 as of 12 Nov 2026.\n\nThe PE ratio ratio of HDFC Large Cap Fund Direct Growth is determined by dividing the market price by\nits earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value\nper share (BVPS).",
+    "text": "Sector Allocation: \nIf you want to sell your HDFC Large Cap Fund Direct Growth holdings, go to your holding on the app or\nweb and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your\ndesired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.\n\nYou can select either SIP or Lumpsum investment of HDFC Large Cap Fund Direct Growth based on\nyour investment objective and risk tolerance.\n\nThe NAV of HDFC Large Cap Fund Direct Growth is ₹1,264.56 as of 13 Nov 2026.\n\nThe PE ratio ratio of HDFC Large Cap Fund Direct Growth is determined by dividing the market price by\nits earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value\nper share (BVPS).",
     "scheme_name": "HDFC Large Cap Fund",
     "section_title": "Sector Allocation",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-14",
     "token_count": 180,
     "chunk_type": "split_table"
   }
