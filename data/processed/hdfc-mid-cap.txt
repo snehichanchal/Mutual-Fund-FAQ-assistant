@@ -2,66 +2,66 @@
 
 | Date | NAV |
 | --- | --- |
-| 15 Nov 2023 | ₹149.33 |
-| 04 Dec 2023 | ₹155.51 |
-| 21 Dec 2023 | ₹158.21 |
-| 09 Jan 2024 | ₹162.69 |
-| 30 Jan 2024 | ₹168.97 |
-| 15 Feb 2024 | ₹172.82 |
-| 05 Mar 2024 | ₹172.34 |
-| 25 Mar 2024 | ₹169.30 |
-| 14 Apr 2024 | ₹174.76 |
-| 02 May 2024 | ₹179.34 |
-| 22 May 2024 | ₹185.76 |
-| 09 Jun 2024 | ₹189.24 |
-| 27 Jun 2024 | ₹196.37 |
-| 15 Jul 2024 | ₹203.42 |
-| 04 Aug 2024 | ₹199.06 |
-| 21 Aug 2024 | ₹206.07 |
-| 09 Sep 2024 | ₹209.88 |
-| 25 Sep 2024 | ₹213.86 |
-| 15 Oct 2024 | ₹211.27 |
-| 03 Nov 2024 | ₹202.87 |
-| 24 Nov 2024 | ₹204.12 |
-| 10 Dec 2024 | ₹213.51 |
-| 30 Dec 2024 | ₹209.08 |
-| 15 Jan 2025 | ₹198.76 |
-| 03 Feb 2025 | ₹195.63 |
-| 19 Feb 2025 | ₹187.78 |
-| 11 Mar 2025 | ₹180.44 |
-| 30 Mar 2025 | ₹190.72 |
-| 21 Apr 2025 | ₹195.51 |
-| 08 May 2025 | ₹193.53 |
-| 27 May 2025 | ₹207.17 |
-| 12 Jun 2025 | ₹209.04 |
-| 01 Jul 2025 | ₹216.83 |
-| 17 Jul 2025 | ₹217.98 |
-| 05 Aug 2025 | ₹209.07 |
-| 24 Aug 2025 | ₹213.98 |
-| 11 Sep 2025 | ₹215.36 |
-| 29 Sep 2025 | ₹211.77 |
-| 19 Oct 2025 | ₹220.06 |
-| 09 Nov 2025 | ₹222.30 |
-| 26 Nov 2025 | ₹226.08 |
-| 14 Dec 2025 | ₹223.78 |
-| 01 Jan 2026 | ₹226.58 |
-| 20 Jan 2026 | ₹218.09 |
-| 09 Feb 2026 | ₹226.94 |
-| 25 Feb 2026 | ₹226.80 |
-| 17 Mar 2026 | ₹209.62 |
-| 06 Apr 2026 | ₹205.14 |
-| 26 Apr 2026 | ₹220.64 |
-| 13 May 2026 | ₹218.89 |
-| 02 Jun 2026 | ₹219.08 |
-| 18 Jun 2026 | ₹226.50 |
-| 08 Jul 2026 | ₹228.93 |
-| 26 Jul 2026 | ₹229.63 |
-| 12 Aug 2026 | ₹237.08 |
-| 30 Aug 2026 | ₹237.52 |
-| 17 Sep 2026 | ₹231.41 |
-| 06 Oct 2026 | ₹220.87 |
-| 26 Oct 2026 | ₹216.12 |
-| 12 Nov 2026 | ₹229.70 |
+| 16 Nov 2023 | ₹149.56 |
+| 05 Dec 2023 | ₹156.24 |
+| 25 Dec 2023 | ₹159.20 |
+| 10 Jan 2024 | ₹163.88 |
+| 31 Jan 2024 | ₹168.61 |
+| 18 Feb 2024 | ₹173.19 |
+| 06 Mar 2024 | ₹173.14 |
+| 26 Mar 2024 | ₹169.85 |
+| 15 Apr 2024 | ₹174.10 |
+| 05 May 2024 | ₹177.99 |
+| 23 May 2024 | ₹186.15 |
+| 10 Jun 2024 | ₹189.71 |
+| 30 Jun 2024 | ₹198.86 |
+| 17 Jul 2024 | ₹202.57 |
+| 05 Aug 2024 | ₹198.23 |
+| 22 Aug 2024 | ₹205.35 |
+| 10 Sep 2024 | ₹208.80 |
+| 26 Sep 2024 | ₹213.61 |
+| 16 Oct 2024 | ₹208.52 |
+| 04 Nov 2024 | ₹203.82 |
+| 25 Nov 2024 | ₹204.55 |
+| 11 Dec 2024 | ₹213.00 |
+| 31 Dec 2024 | ₹209.10 |
+| 16 Jan 2025 | ₹198.22 |
+| 04 Feb 2025 | ₹197.59 |
+| 20 Feb 2025 | ₹185.65 |
+| 12 Mar 2025 | ₹178.72 |
+| 31 Mar 2025 | ₹188.30 |
+| 22 Apr 2025 | ₹197.12 |
+| 11 May 2025 | ₹199.46 |
+| 28 May 2025 | ₹207.48 |
+| 15 Jun 2025 | ₹210.87 |
+| 02 Jul 2025 | ₹216.56 |
+| 20 Jul 2025 | ₹218.20 |
+| 06 Aug 2025 | ₹210.20 |
+| 25 Aug 2025 | ₹211.71 |
+| 14 Sep 2025 | ₹215.62 |
+| 30 Sep 2025 | ₹212.46 |
+| 22 Oct 2025 | ₹220.42 |
+| 10 Nov 2025 | ₹222.61 |
+| 27 Nov 2025 | ₹226.07 |
+| 15 Dec 2025 | ₹222.45 |
+| 04 Jan 2026 | ₹226.66 |
+| 21 Jan 2026 | ₹220.50 |
+| 10 Feb 2026 | ₹227.18 |
+| 26 Feb 2026 | ₹223.96 |
+| 18 Mar 2026 | ₹203.61 |
+| 07 Apr 2026 | ₹212.73 |
+| 27 Apr 2026 | ₹220.22 |
+| 14 May 2026 | ₹218.42 |
+| 03 Jun 2026 | ₹219.94 |
+| 21 Jun 2026 | ₹227.62 |
+| 09 Jul 2026 | ₹231.97 |
+| 27 Jul 2026 | ₹230.93 |
+| 13 Aug 2026 | ₹236.37 |
+| 31 Aug 2026 | ₹236.39 |
+| 20 Sep 2026 | ₹230.67 |
+| 07 Oct 2026 | ₹217.08 |
+| 27 Oct 2026 | ₹216.18 |
+| 15 Nov 2026 | ₹230.30 |
 
 | Repo | Unspecified | Repo | 7.02% |
 | --- | --- | --- | --- |
@@ -310,10 +310,10 @@ Net Payables
 
 ## Sector Allocation
 
-| Fund returns | +16.0% | +17.5% | +17.6% | +19.8% |
+| Fund returns | +15.5% | +17.8% | +17.9% | +19.8% |
 | --- | --- | --- | --- | --- |
 | Category average (Equity Mid Cap) | +15.6% | +14.3% | +16.9% | +18.5% |
-| Rank (Equity Mid Cap) | 18 | 4 | 8 | -- |
+| Rank (Equity Mid Cap) | 17 | 4 | 8 | -- |
 
 Fund benchmark
 
@@ -374,12 +374,12 @@ and take a few minutes to complete
 Once you are done with that, you can start investing in HDFC Mid Cap Fund Direct Growth as SIP or lumpsum as per your
 investment objective and risk tolerance
 
-The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 19.77% since its inception.
+The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 19.78% since its inception.
 
 The term Expense Ratio used for HDFC Mid Cap Fund Direct Growth or any other mutual fund is the annual
-charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.59% as of 16 Nov 2026...
+charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.59% as of 17 Nov 2026...
 
-The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹1,00,687.07Cr as of 16 Nov 2026.
+The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹1,00,687.07Cr as of 17 Nov 2026.
 
 If you want to sell your HDFC Mid Cap Fund Direct Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -388,7 +388,7 @@ desired amount or if you wish to redeem the entire holding amount then select th
 You can select either SIP or Lumpsum investment of HDFC Mid Cap Fund Direct Growth based on
 your investment objective and risk tolerance.
 
-The NAV of HDFC Mid Cap Fund Direct Growth is ₹229.70 as of 13 Nov 2026.
+The NAV of HDFC Mid Cap Fund Direct Growth is ₹230.30 as of 16 Nov 2026.
 
 The PE ratio ratio of HDFC Mid Cap Fund Direct Growth is determined by dividing the market price by
 its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value
