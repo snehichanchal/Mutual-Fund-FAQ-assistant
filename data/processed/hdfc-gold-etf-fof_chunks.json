@@ -1,71 +1,71 @@
 [
   {
     "chunk_id": "hdfc-gold-etf-fof-chunk-01",
-    "text": "General: | Date | NAV |\n| --- | --- |\n| 16 Nov 2023 | ₹19.53 |\n| 05 Dec 2023 | ₹19.94 |\n| 25 Dec 2023 | ₹20.16 |\n| 10 Jan 2024 | ₹19.96 |\n| 31 Jan 2024 | ₹20.07 |\n| 18 Feb 2024 | ₹19.87 |\n| 06 Mar 2024 | ₹20.88 |\n| 26 Mar 2024 | ₹21.36 |\n| 15 Apr 2024 | ₹23.37 |\n| 05 May 2024 | ₹22.95 |\n| 23 May 2024 | ₹22.96 |\n| 10 Jun 2024 | ₹22.81 |\n| 30 Jun 2024 | ₹22.93 |\n| 17 Jul 2024 | ₹23.77 |\n| 05 Aug 2024 | ₹22.16 |\n| 22 Aug 2024 | ₹22.75 |\n| 10 Sep 2024 | ₹22.92 |\n| 26 Sep 2024 | ₹23.99 |\n| 16 Oct 2024 | ₹24.31 |\n| 04 Nov 2024 | ₹24.91 |\n| 25 Nov 2024 | ₹23.96 |\n| 11 Dec 2024 | ₹24.77 |",
+    "text": "General: | Date | NAV |\n| --- | --- |\n| 19 Nov 2023 | ₹19.52 |\n| 06 Dec 2023 | ₹19.99 |\n| 26 Dec 2023 | ₹20.26 |\n| 11 Jan 2024 | ₹20.02 |\n| 01 Feb 2024 | ₹20.15 |\n| 19 Feb 2024 | ₹19.83 |\n| 10 Mar 2024 | ₹21.09 |\n| 27 Mar 2024 | ₹21.38 |\n| 17 Apr 2024 | ₹23.41 |\n| 06 May 2024 | ₹22.88 |\n| 26 May 2024 | ₹23.01 |\n| 11 Jun 2024 | ₹22.91 |\n| 01 Jul 2024 | ₹22.97 |\n| 18 Jul 2024 | ₹23.55 |\n| 06 Aug 2024 | ₹22.10 |\n| 25 Aug 2024 | ₹22.96 |\n| 11 Sep 2024 | ₹22.88 |\n| 29 Sep 2024 | ₹24.02 |\n| 17 Oct 2024 | ₹24.59 |\n| 05 Nov 2024 | ₹24.79 |\n| 26 Nov 2024 | ₹24.18 |\n| 12 Dec 2024 | ₹24.40 |",
     "scheme_name": "HDFC Gold ETF Fund of Fund",
     "section_title": "General",
     "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-    "last_updated": "2026-11-17",
+    "last_updated": "2026-11-18",
     "token_count": 298,
     "chunk_type": "split_table"
   },
   {
     "chunk_id": "hdfc-gold-etf-fof-chunk-02",
-    "text": "General: | 04 Nov 2024 | ₹24.91 |\n| 25 Nov 2024 | ₹23.96 |\n| 11 Dec 2024 | ₹24.77 |\n| 31 Dec 2024 | ₹24.30 |\n| 16 Jan 2025 | ₹25.21 |\n| 04 Feb 2025 | ₹26.90 |\n| 20 Feb 2025 | ₹27.30 |\n| 12 Mar 2025 | ₹27.41 |\n| 31 Mar 2025 | ₹28.85 |\n| 22 Apr 2025 | ₹30.31 |\n| 11 May 2025 | ₹29.45 |\n| 28 May 2025 | ₹29.86 |\n| 15 Jun 2025 | ₹31.37 |\n| 02 Jul 2025 | ₹30.59 |\n| 20 Jul 2025 | ₹30.99 |\n| 06 Aug 2025 | ₹31.68 |\n| 25 Aug 2025 | ₹31.63 |\n| 14 Sep 2025 | ₹34.33 |\n| 30 Sep 2025 | ₹36.89 |\n| 22 Oct 2025 | ₹38.48 |\n| 10 Nov 2025 | ₹38.94 |\n| 27 Nov 2025 | ₹39.44 |\n| 15 Dec 2025 | ₹41.34 |",
+    "text": "General: | 05 Nov 2024 | ₹24.79 |\n| 26 Nov 2024 | ₹24.18 |\n| 12 Dec 2024 | ₹24.40 |\n| 01 Jan 2025 | ₹24.39 |\n| 19 Jan 2025 | ₹25.24 |\n| 05 Feb 2025 | ₹26.93 |\n| 23 Feb 2025 | ₹27.39 |\n| 16 Mar 2025 | ₹27.70 |\n| 01 Apr 2025 | ₹28.75 |\n| 23 Apr 2025 | ₹30.36 |\n| 12 May 2025 | ₹29.86 |\n| 29 May 2025 | ₹30.06 |\n| 16 Jun 2025 | ₹31.17 |\n| 03 Jul 2025 | ₹30.53 |\n| 21 Jul 2025 | ₹31.25 |\n| 07 Aug 2025 | ₹31.82 |\n| 27 Aug 2025 | ₹31.85 |\n| 15 Sep 2025 | ₹34.81 |\n| 02 Oct 2025 | ₹36.66 |\n| 23 Oct 2025 | ₹37.76 |\n| 11 Nov 2025 | ₹38.76 |\n| 30 Nov 2025 | ₹40.31 |\n| 16 Dec 2025 | ₹41.47 |",
     "scheme_name": "HDFC Gold ETF Fund of Fund",
     "section_title": "General",
     "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-    "last_updated": "2026-11-17",
+    "last_updated": "2026-11-18",
     "token_count": 301,
     "chunk_type": "split_table"
   },
   {
     "chunk_id": "hdfc-gold-etf-fof-chunk-03",
-    "text": "General: | 10 Nov 2025 | ₹38.94 |\n| 27 Nov 2025 | ₹39.44 |\n| 15 Dec 2025 | ₹41.34 |\n| 04 Jan 2026 | ₹42.64 |\n| 21 Jan 2026 | ₹47.12 |\n| 10 Feb 2026 | ₹48.56 |\n| 26 Feb 2026 | ₹49.70 |\n| 18 Mar 2026 | ₹45.76 |\n| 07 Apr 2026 | ₹46.89 |\n| 27 Apr 2026 | ₹46.31 |\n| 14 May 2026 | ₹48.86 |\n| 03 Jun 2026 | ₹48.46 |\n| 21 Jun 2026 | ₹45.62 |\n| 09 Jul 2026 | ₹44.56 |\n| 27 Jul 2026 | ₹44.09 |\n| 13 Aug 2026 | ₹47.20 |\n| 31 Aug 2026 | ₹47.34 |\n| 20 Sep 2026 | ₹47.38 |\n| 07 Oct 2026 | ₹45.62 |\n| 27 Oct 2026 | ₹44.14 |\n| 15 Nov 2026 | ₹41.46 |\n\n| HDFC Gold ETF | Unspecified | Mutual Fund | 100.04% |\n| --- | --- | --- | --- |",
+    "text": "General: | 11 Nov 2025 | ₹38.76 |\n| 30 Nov 2025 | ₹40.31 |\n| 16 Dec 2025 | ₹41.47 |\n| 05 Jan 2026 | ₹42.72 |\n| 22 Jan 2026 | ₹48.18 |\n| 11 Feb 2026 | ₹48.52 |\n| 01 Mar 2026 | ₹52.13 |\n| 19 Mar 2026 | ₹45.71 |\n| 08 Apr 2026 | ₹46.49 |\n| 28 Apr 2026 | ₹45.84 |\n| 17 May 2026 | ₹48.93 |\n| 04 Jun 2026 | ₹48.20 |\n| 22 Jun 2026 | ₹44.87 |\n| 12 Jul 2026 | ₹44.07 |\n| 28 Jul 2026 | ₹44.07 |\n| 16 Aug 2026 | ₹47.67 |\n| 01 Sep 2026 | ₹46.64 |\n| 21 Sep 2026 | ₹47.17 |\n| 08 Oct 2026 | ₹46.27 |\n| 28 Oct 2026 | ₹43.87 |\n| 16 Nov 2026 | ₹41.44 |\n\n| HDFC Gold ETF | Unspecified | Mutual Fund | 100.04% |\n| --- | --- | --- | --- |",
     "scheme_name": "HDFC Gold ETF Fund of Fund",
     "section_title": "General",
     "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-    "last_updated": "2026-11-17",
+    "last_updated": "2026-11-18",
     "token_count": 302,
     "chunk_type": "split_table"
   },
   {
     "chunk_id": "hdfc-gold-etf-fof-chunk-04",
-    "text": "General: | 15 Nov 2026 | ₹41.46 |\n\n| HDFC Gold ETF | Unspecified | Mutual Fund | 100.04% |\n| --- | --- | --- | --- |\n| Repo | Unspecified | Repo | 0.03% |\n| Net Payables | Unspecified | Net Payables | -0.07% |\n\nHDFC Gold ETF\n\nRepo\n\nNet Payables",
+    "text": "General: | 16 Nov 2026 | ₹41.44 |\n\n| HDFC Gold ETF | Unspecified | Mutual Fund | 100.04% |\n| --- | --- | --- | --- |\n| Repo | Unspecified | Repo | 0.03% |\n| Net Payables | Unspecified | Net Payables | -0.07% |\n\nHDFC Gold ETF\n\nRepo\n\nNet Payables",
     "scheme_name": "HDFC Gold ETF Fund of Fund",
     "section_title": "General",
     "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-    "last_updated": "2026-11-17",
+    "last_updated": "2026-11-18",
     "token_count": 85,
     "chunk_type": "split_table"
   },
   {
     "chunk_id": "hdfc-gold-etf-fof-chunk-05",
-    "text": "Sector Allocation: | Fund returns | +28.7% | +20.8% | +15.2% | +10.0% |\n| --- | --- | --- | --- | --- |\n| Category average (Commodities Gold) | +31.5% | +22.4% | +16.0% | +12.1% |\n| Rank (Commodities Gold) | 6 | 5 | 3 | -- |\n\nFund benchmark\n\nDomestic Price of Gold\n\nScheme Information Document(SID)\n\nRank (total assets)\n\n#2 in India\n\nTotal AUM\n\n₹9,33,671.14 Cr\n\nDate of Incorporation\n\n09 Dec 1999\n\nPhone\n\n022 – 66316333\n\nE-mail\n\nWebsite\n\nLaunch Date\n\nAddress\n\n\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020\n\nCustodian\n\nRegistrar & Transfer Agent\n\nCams\n\nEmail\n\n7th Floor, Tower II, Rayala Towers, 158, Anna Salai,\n\nYou can easily invest in HDFC Gold ETF Fund of Fund Direct Plan Growth in a hassle-free manner on Groww. The\nprocess is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:\n\nLog on to your Groww account\n\nSearch for HDFC Gold ETF Fund of Fund Direct Plan Growth from the search box\n",
+    "text": "Sector Allocation: | Fund returns | +28.5% | +20.9% | +15.2% | +10.0% |\n| --- | --- | --- | --- | --- |\n| Category average (Commodities Gold) | +31.5% | +22.4% | +16.0% | +12.1% |\n| Rank (Commodities Gold) | 6 | 6 | 3 | -- |\n\nFund benchmark\n\nDomestic Price of Gold\n\nScheme Information Document(SID)\n\nRank (total assets)\n\n#2 in India\n\nTotal AUM\n\n₹9,33,671.14 Cr\n\nDate of Incorporation\n\n09 Dec 1999\n\nPhone\n\n022 – 66316333\n\nE-mail\n\nWebsite\n\nLaunch Date\n\nAddress\n\n\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020\n\nCustodian\n\nRegistrar & Transfer Agent\n\nCams\n\nEmail\n\n7th Floor, Tower II, Rayala Towers, 158, Anna Salai,\n\nYou can easily invest in HDFC Gold ETF Fund of Fund Direct Plan Growth in a hassle-free manner on Groww. The\nprocess is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:\n\nLog on to your Groww account\n\nSearch for HDFC Gold ETF Fund of Fund Direct Plan Growth from the search box\n",
     "scheme_name": "HDFC Gold ETF Fund of Fund",
     "section_title": "Sector Allocation",
     "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-    "last_updated": "2026-11-17",
+    "last_updated": "2026-11-18",
     "token_count": 305,
     "chunk_type": "split_table"
   },
   {
     "chunk_id": "hdfc-gold-etf-fof-chunk-06",
-    "text": "Sector Allocation: process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:\n\nLog on to your Groww account\n\nSearch for HDFC Gold ETF Fund of Fund Direct Plan Growth from the search box\n\nIn order to invest, you will have to complete all the KYC formalities which are completely online and paperless\nand take a few minutes to complete\n\nOnce you are done with that, you can start investing in HDFC Gold ETF Fund of Fund Direct Plan Growth as SIP or lumpsum as per your\ninvestment objective and risk tolerance\n\nThe HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 9.99% since its inception.\n\nThe term Expense Ratio used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual\ncharges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.17% as of 17 Nov 2026...\n\nThe AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹11,488.11Cr as of 17 Nov 2026.\n\nIf you want to sell your HDFC Gold ETF Fund of Fund Direct Plan Growth holdings, go to your holding on the app or",
+    "text": "Sector Allocation: process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:\n\nLog on to your Groww account\n\nSearch for HDFC Gold ETF Fund of Fund Direct Plan Growth from the search box\n\nIn order to invest, you will have to complete all the KYC formalities which are completely online and paperless\nand take a few minutes to complete\n\nOnce you are done with that, you can start investing in HDFC Gold ETF Fund of Fund Direct Plan Growth as SIP or lumpsum as per your\ninvestment objective and risk tolerance\n\nThe HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 9.98% since its inception.\n\nThe term Expense Ratio used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual\ncharges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 18 Nov 2026...\n\nThe AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹11,488.11Cr as of 18 Nov 2026.\n\nIf you want to sell your HDFC Gold ETF Fund of Fund Direct Plan Growth holdings, go to your holding on the app or",
     "scheme_name": "HDFC Gold ETF Fund of Fund",
     "section_title": "Sector Allocation",
     "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-    "last_updated": "2026-11-17",
+    "last_updated": "2026-11-18",
     "token_count": 293,
     "chunk_type": "split_table"
   },
   {
     "chunk_id": "hdfc-gold-etf-fof-chunk-07",
-    "text": "Sector Allocation: \nIf you want to sell your HDFC Gold ETF Fund of Fund Direct Plan Growth holdings, go to your holding on the app or\nweb and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your\ndesired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.\n\nYou can select either SIP or Lumpsum investment of HDFC Gold ETF Fund of Fund Direct Plan Growth based on\nyour investment objective and risk tolerance.\n\nThe NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹41.46 as of 16 Nov 2026.\n\nThe PE ratio ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is determined by dividing the market price by\nits earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value\nper share (BVPS).",
+    "text": "Sector Allocation: \nIf you want to sell your HDFC Gold ETF Fund of Fund Direct Plan Growth holdings, go to your holding on the app or\nweb and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your\ndesired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.\n\nYou can select either SIP or Lumpsum investment of HDFC Gold ETF Fund of Fund Direct Plan Growth based on\nyour investment objective and risk tolerance.\n\nThe NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹41.44 as of 17 Nov 2026.\n\nThe PE ratio ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is determined by dividing the market price by\nits earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value\nper share (BVPS).",
     "scheme_name": "HDFC Gold ETF Fund of Fund",
     "section_title": "Sector Allocation",
     "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-    "last_updated": "2026-11-17",
+    "last_updated": "2026-11-18",
     "token_count": 190,
     "chunk_type": "split_table"
   }
