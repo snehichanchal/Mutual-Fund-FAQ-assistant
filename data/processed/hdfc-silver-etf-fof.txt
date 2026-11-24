@@ -2,66 +2,66 @@
 
 | Date | NAV |
 | --- | --- |
-| 22 Nov 2023 | ₹12.55 |
-| 11 Dec 2023 | ₹12.31 |
-| 31 Dec 2023 | ₹12.71 |
-| 16 Jan 2024 | ₹12.25 |
-| 06 Feb 2024 | ₹12.04 |
-| 22 Feb 2024 | ₹12.02 |
-| 13 Mar 2024 | ₹12.62 |
-| 01 Apr 2024 | ₹13.02 |
-| 22 Apr 2024 | ₹13.63 |
-| 09 May 2024 | ₹14.45 |
-| 29 May 2024 | ₹15.86 |
-| 17 Jun 2024 | ₹15.13 |
-| 04 Jul 2024 | ₹15.48 |
-| 23 Jul 2024 | ₹14.55 |
-| 11 Aug 2024 | ₹13.98 |
-| 28 Aug 2024 | ₹14.55 |
-| 16 Sep 2024 | ₹14.86 |
-| 03 Oct 2024 | ₹15.70 |
-| 22 Oct 2024 | ₹16.78 |
-| 10 Nov 2024 | ₹15.47 |
-| 01 Dec 2024 | ₹15.04 |
-| 17 Dec 2024 | ₹15.16 |
-| 06 Jan 2025 | ₹15.18 |
-| 22 Jan 2025 | ₹15.33 |
-| 10 Feb 2025 | ₹15.94 |
-| 27 Feb 2025 | ₹15.84 |
-| 19 Mar 2025 | ₹16.76 |
-| 06 Apr 2025 | ₹15.17 |
-| 28 Apr 2025 | ₹16.53 |
-| 15 May 2025 | ₹16.13 |
-| 03 Jun 2025 | ₹17.09 |
-| 19 Jun 2025 | ₹18.00 |
-| 08 Jul 2025 | ₹18.08 |
-| 24 Jul 2025 | ₹19.29 |
-| 12 Aug 2025 | ₹19.39 |
-| 01 Sep 2025 | ₹20.56 |
-| 18 Sep 2025 | ₹21.58 |
-| 07 Oct 2025 | ₹26.02 |
-| 28 Oct 2025 | ₹24.52 |
-| 16 Nov 2025 | ₹25.86 |
-| 03 Dec 2025 | ₹29.04 |
-| 21 Dec 2025 | ₹34.85 |
-| 08 Jan 2026 | ₹39.99 |
-| 28 Jan 2026 | ₹61.39 |
-| 16 Feb 2026 | ₹37.95 |
-| 05 Mar 2026 | ₹42.71 |
-| 24 Mar 2026 | ₹38.30 |
-| 14 Apr 2026 | ₹40.72 |
-| 04 May 2026 | ₹39.60 |
-| 20 May 2026 | ₹43.51 |
-| 09 Jun 2026 | ₹38.04 |
-| 28 Jun 2026 | ₹35.97 |
-| 15 Jul 2026 | ₹35.74 |
-| 02 Aug 2026 | ₹35.71 |
-| 19 Aug 2026 | ₹38.97 |
-| 06 Sep 2026 | ₹37.97 |
-| 24 Sep 2026 | ₹37.75 |
-| 13 Oct 2026 | ₹34.97 |
-| 02 Nov 2026 | ₹28.79 |
-| 19 Nov 2026 | ₹25.08 |
+| 23 Nov 2023 | ₹12.55 |
+| 12 Dec 2023 | ₹12.20 |
+| 01 Jan 2024 | ₹12.77 |
+| 17 Jan 2024 | ₹12.23 |
+| 07 Feb 2024 | ₹12.04 |
+| 25 Feb 2024 | ₹12.04 |
+| 14 Mar 2024 | ₹12.64 |
+| 02 Apr 2024 | ₹13.26 |
+| 23 Apr 2024 | ₹13.80 |
+| 12 May 2024 | ₹14.30 |
+| 30 May 2024 | ₹15.77 |
+| 18 Jun 2024 | ₹15.24 |
+| 07 Jul 2024 | ₹15.62 |
+| 24 Jul 2024 | ₹14.02 |
+| 12 Aug 2024 | ₹13.98 |
+| 29 Aug 2024 | ₹14.54 |
+| 17 Sep 2024 | ₹14.80 |
+| 06 Oct 2024 | ₹15.61 |
+| 23 Oct 2024 | ₹16.64 |
+| 11 Nov 2024 | ₹15.04 |
+| 02 Dec 2024 | ₹15.31 |
+| 18 Dec 2024 | ₹14.81 |
+| 07 Jan 2025 | ₹15.21 |
+| 23 Jan 2025 | ₹15.47 |
+| 11 Feb 2025 | ₹15.96 |
+| 02 Mar 2025 | ₹15.97 |
+| 20 Mar 2025 | ₹16.44 |
+| 07 Apr 2025 | ₹15.31 |
+| 29 Apr 2025 | ₹16.00 |
+| 18 May 2025 | ₹16.19 |
+| 04 Jun 2025 | ₹17.54 |
+| 22 Jun 2025 | ₹18.09 |
+| 09 Jul 2025 | ₹18.07 |
+| 27 Jul 2025 | ₹19.01 |
+| 13 Aug 2025 | ₹19.32 |
+| 02 Sep 2025 | ₹20.72 |
+| 21 Sep 2025 | ₹22.36 |
+| 08 Oct 2025 | ₹28.10 |
+| 29 Oct 2025 | ₹24.45 |
+| 17 Nov 2025 | ₹25.45 |
+| 04 Dec 2025 | ₹29.56 |
+| 22 Dec 2025 | ₹35.10 |
+| 11 Jan 2026 | ₹42.27 |
+| 29 Jan 2026 | ₹51.48 |
+| 17 Feb 2026 | ₹38.68 |
+| 08 Mar 2026 | ₹42.74 |
+| 26 Mar 2026 | ₹36.51 |
+| 15 Apr 2026 | ₹41.12 |
+| 05 May 2026 | ₹40.58 |
+| 21 May 2026 | ₹43.65 |
+| 10 Jun 2026 | ₹38.26 |
+| 29 Jun 2026 | ₹36.83 |
+| 16 Jul 2026 | ₹35.36 |
+| 03 Aug 2026 | ₹35.78 |
+| 20 Aug 2026 | ₹40.18 |
+| 07 Sep 2026 | ₹38.21 |
+| 27 Sep 2026 | ₹36.31 |
+| 14 Oct 2026 | ₹34.07 |
+| 03 Nov 2026 | ₹30.45 |
+| 22 Nov 2026 | ₹25.20 |
 
 | HDFC Silver ETF Regular - Growth | Unspecified | Mutual Fund | 99.87% |
 | --- | --- | --- | --- |
@@ -76,10 +76,10 @@ Net Payables
 
 ## Sector Allocation
 
-| Fund returns | -42.6% | -2.5% | +26.1% | +25.6% |
+| Fund returns | -42.3% | +0.3% | +26.1% | +25.7% |
 | --- | --- | --- | --- | --- |
 | Category average (Commodities Silver) | -41.4% | +2.1% | +27.9% | +20.5% |
-| Rank (Commodities Silver) | -- | 12 | 7 | -- |
+| Rank (Commodities Silver) | -- | 8 | 3 | -- |
 
 Fund benchmark
 
@@ -136,12 +136,12 @@ and take a few minutes to complete
 Once you are done with that, you can start investing in HDFC Silver ETF FoF Direct Growth as SIP or lumpsum as per your
 investment objective and risk tolerance
 
-The HDFC Silver ETF FoF Direct Growth has been there from 28 Oct 2022 and the average annual returns provided by this fund is 25.62% since its inception.
+The HDFC Silver ETF FoF Direct Growth has been there from 28 Oct 2022 and the average annual returns provided by this fund is 25.71% since its inception.
 
 The term Expense Ratio used for HDFC Silver ETF FoF Direct Growth or any other mutual fund is the annual
-charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.18% as of 23 Nov 2026...
+charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.18% as of 24 Nov 2026...
 
-The AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹3,787.89Cr as of 23 Nov 2026.
+The AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹3,787.89Cr as of 24 Nov 2026.
 
 If you want to sell your HDFC Silver ETF FoF Direct Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -150,7 +150,7 @@ desired amount or if you wish to redeem the entire holding amount then select th
 You can select either SIP or Lumpsum investment of HDFC Silver ETF FoF Direct Growth based on
 your investment objective and risk tolerance.
 
-The NAV of HDFC Silver ETF FoF Direct Growth is ₹25.08 as of 20 Nov 2026.
+The NAV of HDFC Silver ETF FoF Direct Growth is ₹25.20 as of 23 Nov 2026.
 
 The PE ratio ratio of HDFC Silver ETF FoF Direct Growth is determined by dividing the market price by
 its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value
