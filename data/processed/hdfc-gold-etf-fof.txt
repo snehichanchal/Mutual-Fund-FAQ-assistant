@@ -22,46 +22,46 @@
 | 08 Oct 2024 | ₹23.79 |
 | 24 Oct 2024 | ₹24.71 |
 | 13 Nov 2024 | ₹23.34 |
-| 03 Dec 2024 | ₹24.16 |
+| 04 Dec 2024 | ₹24.21 |
 | 22 Dec 2024 | ₹24.13 |
-| 08 Jan 2025 | ₹24.69 |
+| 09 Jan 2025 | ₹24.81 |
 | 27 Jan 2025 | ₹25.50 |
-| 12 Feb 2025 | ₹27.16 |
+| 13 Feb 2025 | ₹27.29 |
 | 04 Mar 2025 | ₹27.29 |
-| 23 Mar 2025 | ₹27.69 |
+| 24 Mar 2025 | ₹27.70 |
 | 10 Apr 2025 | ₹29.31 |
-| 01 May 2025 | ₹29.77 |
+| 04 May 2025 | ₹30.32 |
 | 20 May 2025 | ₹30.04 |
-| 05 Jun 2025 | ₹30.66 |
+| 08 Jun 2025 | ₹30.37 |
 | 24 Jun 2025 | ₹30.61 |
-| 10 Jul 2025 | ₹30.65 |
+| 13 Jul 2025 | ₹30.95 |
 | 29 Jul 2025 | ₹31.16 |
-| 17 Aug 2025 | ₹31.29 |
+| 18 Aug 2025 | ₹31.08 |
 | 04 Sep 2025 | ₹33.46 |
-| 22 Sep 2025 | ₹35.90 |
+| 23 Sep 2025 | ₹35.72 |
 | 12 Oct 2025 | ₹38.72 |
-| 30 Oct 2025 | ₹37.74 |
+| 02 Nov 2025 | ₹37.74 |
 | 19 Nov 2025 | ₹38.34 |
-| 07 Dec 2025 | ₹40.30 |
-| 25 Dec 2025 | ₹43.11 |
-| 12 Jan 2026 | ₹44.00 |
-| 02 Feb 2026 | ₹47.35 |
-| 18 Feb 2026 | ₹47.86 |
-| 10 Mar 2026 | ₹50.10 |
-| 29 Mar 2026 | ₹45.57 |
-| 19 Apr 2026 | ₹47.16 |
-| 06 May 2026 | ₹46.95 |
-| 25 May 2026 | ₹48.91 |
-| 11 Jun 2026 | ₹45.95 |
-| 01 Jul 2026 | ₹44.36 |
-| 19 Jul 2026 | ₹44.09 |
-| 05 Aug 2026 | ₹46.15 |
-| 23 Aug 2026 | ₹50.19 |
-| 09 Sep 2026 | ₹47.62 |
-| 28 Sep 2026 | ₹45.52 |
-| 18 Oct 2026 | ₹45.20 |
-| 04 Nov 2026 | ₹44.53 |
-| 25 Nov 2026 | ₹38.04 |
+| 08 Dec 2025 | ₹40.10 |
+| 28 Dec 2025 | ₹42.72 |
+| 13 Jan 2026 | ₹44.66 |
+| 03 Feb 2026 | ₹49.04 |
+| 19 Feb 2026 | ₹48.10 |
+| 11 Mar 2026 | ₹49.99 |
+| 30 Mar 2026 | ₹45.57 |
+| 20 Apr 2026 | ₹47.23 |
+| 07 May 2026 | ₹46.93 |
+| 26 May 2026 | ₹48.69 |
+| 14 Jun 2026 | ₹46.80 |
+| 02 Jul 2026 | ₹45.37 |
+| 20 Jul 2026 | ₹44.43 |
+| 06 Aug 2026 | ₹46.52 |
+| 24 Aug 2026 | ₹50.03 |
+| 10 Sep 2026 | ₹47.21 |
+| 29 Sep 2026 | ₹45.88 |
+| 20 Oct 2026 | ₹44.55 |
+| 05 Nov 2026 | ₹43.81 |
+| 26 Nov 2026 | ₹39.07 |
 
 | HDFC Gold ETF | Unspecified | Mutual Fund | 100.04% |
 | --- | --- | --- | --- |
@@ -78,7 +78,7 @@ Net Payables
 
 | Fund returns | +24.5% | +19.3% | +14.5% | +9.3% |
 | --- | --- | --- | --- | --- |
-| Category average (Commodities Gold) | +27.1% | +21.0% | +15.5% | +11.5% |
+| Category average (Commodities Gold) | +26.3% | +20.4% | +15.4% | +11.3% |
 | Rank (Commodities Gold) | 9 | 7 | 4 | -- |
 
 Fund benchmark
@@ -139,9 +139,9 @@ investment objective and risk tolerance
 The HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 9.29% since its inception.
 
 The term Expense Ratio used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual
-charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 27 Nov 2026...
+charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 28 Nov 2026...
 
-The AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹11,488.11Cr as of 27 Nov 2026.
+The AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹11,488.11Cr as of 28 Nov 2026.
 
 If you want to sell your HDFC Gold ETF Fund of Fund Direct Plan Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -150,7 +150,7 @@ desired amount or if you wish to redeem the entire holding amount then select th
 You can select either SIP or Lumpsum investment of HDFC Gold ETF Fund of Fund Direct Plan Growth based on
 your investment objective and risk tolerance.
 
-The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹38.04 as of 26 Nov 2026.
+The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹39.07 as of 27 Nov 2026.
 
 The PE ratio ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is determined by dividing the market price by
 its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value
